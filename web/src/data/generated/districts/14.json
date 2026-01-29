@@ -1,0 +1,951 @@
+{
+  "code": "14",
+  "name": "神奈川県",
+  "blockCode": "04",
+  "blockName": "南関東",
+  "basicInfo": "神奈川県は関東地方の南西部に位置し、人口は約924万人で全国2位。県庁所在地は横浜市。東京に隣接し、横浜市、川崎市、相模原市の3つの政令指定都市を擁する。\n\n歴史的には、鎌倉幕府が置かれた鎌倉は日本の政治の中心であった。幕末には横浜が開港し、日本の近代化の窓口となった。箱根は東海道の難所として知られ、温泉保養地として発展した。\n\n経済的には、横浜港は日本有数の貿易港で、みなとみらい21地区は横浜のシンボル。川崎市は京浜工業地帯の中核で、先端技術産業も集積。湘南地域はマリンスポーツのメッカとして若者に人気。",
+  "issues": [
+    "米軍基地問題",
+    "人口増加地域の課題",
+    "観光振興"
+  ],
+  "electionCharacteristics": "神奈川県の衆議院小選挙区は20（2022年の区割り変更で18から20に増加）。全国で東京に次ぐ選挙区数を持つ。\n\n東京のベッドタウンとして無党派層が非常に多く、選挙ごとに結果が大きく変動する傾向がある。菅義偉前首相、河野太郎、小泉進次郎など自民党の有力政治家の地盤がある一方、都市部では立憲民主党も強い。\n\n2024年の衆院選では、裏金問題の影響で野党が躍進し、自民党は20選挙区中7選挙区の勝利にとどまった。特に甘利明元幹事長が20区で落選するなど、自民党への逆風が顕著だった。\n\n**2026年選挙の構図**: 中道改革連合（立憲+公明の新党）vs 自民党・維新連立の対決構図。神奈川は20選挙区あり、横浜・川崎などの都市部では中道改革連合が優勢、郊外・県西部では接戦の傾向。菅義偉、河野太郎、小泉進次郎の「神奈川三羽烏」は自民党・維新連立の牙城として盤石だが、その他の選挙区では中道改革連合との激戦が予想される。",
+  "districts": [
+    {
+      "number": 1,
+      "regionDescription": "神奈川1区は横浜市中区、磯子区、金沢区で構成される。横浜港周辺と南部。\n\n- **中区**: 横浜の中心で、みなとみらい21、横浜中華街、山下公園がある。赤レンガ倉庫は歴史的建造物を活用した商業施設。\n\n- **金沢区**: 八景島シーパラダイスがあり、海の公園は潮干狩りが楽しめる。",
+      "characteristics": "横浜港周辺の都心部を含む選挙区。観光地や商業地域が多く、無党派層が多い都市型選挙区。2024年は立憲が勝利し、野党優勢の傾向が続く。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "篠原豪",
+            "party": "立憲",
+            "percentage": 41.1,
+            "votes": 91809,
+            "status": "elected"
+          },
+          {
+            "name": "松本純",
+            "party": "自民",
+            "percentage": 30.9,
+            "votes": 68931,
+            "status": "lost"
+          },
+          {
+            "name": "浅川義治",
+            "party": "維新",
+            "percentage": 12.9,
+            "votes": 28841,
+            "status": "lost"
+          },
+          {
+            "name": "伊東万美子",
+            "party": "参政",
+            "percentage": 9,
+            "votes": 20110,
+            "status": "lost"
+          },
+          {
+            "name": "蓮池幸雄",
+            "party": "共産",
+            "percentage": 6.1,
+            "votes": 13572,
+            "status": "lost"
+          }
+        ],
+        "turnout": 54.5,
+        "margin": 22878,
+        "marginPt": 10.2
+      },
+      "candidates2026": [
+        {
+          "name": "しのはら豪",
+          "party": "中道改革連合",
+          "status": "前職",
+          "age": 50,
+          "title": "政党役員",
+          "wins": 4
+        },
+        {
+          "name": "丸尾なつ子",
+          "party": "自民",
+          "status": "新人",
+          "age": 43,
+          "title": "弁護士、選挙区支部長"
+        },
+        {
+          "name": "浅川義治",
+          "party": "維新",
+          "status": "元職",
+          "age": 57,
+          "title": "会社員",
+          "wins": 1
+        }
+      ],
+      "analysis2026": "2024年に小選挙区で勝利したしのはら豪(中道改革連合)が再選を目指す。自民の新人丸尾なつ子(弁護士)、元職の浅川義治(維新)の3人の争い。"
+    },
+    {
+      "number": 2,
+      "regionDescription": "神奈川2区は横浜市西区、南区、港南区で構成される。横浜駅周辺と南部住宅地。\n\n- **西区**: 横浜駅周辺の商業地域。横浜高島屋、そごう横浜店など大型百貨店が集積。",
+      "characteristics": "菅義偉前首相の牙城。10期連続当選と圧倒的な強さを誇り、自民党内でも最も安定した選挙区の一つ。77歳と高齢だが、首相経験者として全国的な影響力を持つ。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "菅義偉",
+            "party": "自民",
+            "percentage": 52.2,
+            "votes": 119548,
+            "status": "elected"
+          },
+          {
+            "name": "柳家東三楼",
+            "party": "立憲",
+            "percentage": 20.6,
+            "votes": 47222,
+            "status": "lost"
+          },
+          {
+            "name": "三好諒",
+            "party": "れいわ",
+            "percentage": 12,
+            "votes": 27535,
+            "status": "lost"
+          },
+          {
+            "name": "並木まり子",
+            "party": "共産",
+            "percentage": 8.5,
+            "votes": 19538,
+            "status": "lost"
+          },
+          {
+            "name": "平本幸次郎",
+            "party": "参政",
+            "percentage": 6.7,
+            "votes": 15315,
+            "status": "lost"
+          }
+        ],
+        "turnout": 54.3,
+        "margin": 72326,
+        "marginPt": 31.6
+      },
+      "candidates2026": [
+        {
+          "name": "やなぎや東三楼",
+          "party": "中道改革連合",
+          "status": "新人",
+          "age": 49,
+          "title": "落語家"
+        },
+        {
+          "name": "にった章文",
+          "party": "自民",
+          "status": "新人",
+          "age": 44,
+          "title": "元内閣総理大臣秘書官、選挙区支部長"
+        },
+        {
+          "name": "片山ちえ",
+          "party": "国民",
+          "status": "新人",
+          "age": 34,
+          "title": "会社員"
+        },
+        {
+          "name": "並木まり子",
+          "party": "共産",
+          "status": "新人",
+          "age": 74,
+          "title": "看護師"
+        },
+        {
+          "name": "平本こうじろう",
+          "party": "参政",
+          "status": "新人",
+          "age": 63,
+          "title": "会社社長"
+        }
+      ],
+      "analysis2026": "※注：2024年に当選した菅義偉前首相は今回出馬せず、菅氏の後継を目指す新人候補の争いとなっている。中道改革連合の落語家・やなぎや東三楼、自民のにった章文(元首相秘書官)、国民の片山ちえ、共産の並木まり子、参政党の平本こうじろうの5人の乱戦。"
+    },
+    {
+      "number": 3,
+      "regionDescription": "神奈川3区は横浜市鶴見区、神奈川区で構成される。京浜工業地帯と臨海部。\n\n- **鶴見区**: 総持寺（曹洞宗大本山）があり、沖縄出身者が多く住む「リトル沖縄」としても知られる。",
+      "characteristics": "京浜工業地帯を含む工業地域と住宅地が混在。沖縄出身者が多く住む「リトル沖縄」もあり、多様な有権者層を持つ。2024年は自民が勝利したが、接戦が続く。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "中西健治",
+            "party": "自民",
+            "percentage": 40.5,
+            "votes": 92125,
+            "status": "elected"
+          },
+          {
+            "name": "中村武人",
+            "party": "立憲",
+            "percentage": 31.4,
+            "votes": 71464,
+            "status": "lost"
+          },
+          {
+            "name": "佐藤香",
+            "party": "維新",
+            "percentage": 11.7,
+            "votes": 26622,
+            "status": "lost"
+          },
+          {
+            "name": "内田恵美子",
+            "party": "参政",
+            "percentage": 8.3,
+            "votes": 18866,
+            "status": "lost"
+          },
+          {
+            "name": "横山征吾",
+            "party": "共産",
+            "percentage": 8,
+            "votes": 18145,
+            "status": "lost"
+          }
+        ],
+        "turnout": 52.5,
+        "margin": 20661,
+        "marginPt": 9.1
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 4,
+      "regionDescription": "神奈川4区は横浜市栄区、鎌倉市、逗子市、三浦郡で構成される。湘南の海沿い。\n\n- **鎌倉市**: 鎌倉幕府の所在地で、鶴岡八幡宮、高徳院の大仏など歴史的名所が多い。江ノ電は観光客に人気のローカル線。\n\n- **逗子市**: 海水浴場があり、葉山町は御用邸がある高級別荘地。",
+      "characteristics": "鎌倉・逗子・葉山という歴史と高級別荘地を含む湘南エリア。文化的・知的な有権者が多く、環境問題や歴史保全への関心が高い。2024年は立憲が勝利。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "早稲田夕季",
+            "party": "立憲",
+            "percentage": 51.5,
+            "votes": 96874,
+            "status": "elected"
+          },
+          {
+            "name": "山本朋広",
+            "party": "自民",
+            "percentage": 23.4,
+            "votes": 44016,
+            "status": "lost"
+          },
+          {
+            "name": "加藤千華",
+            "party": "維新",
+            "percentage": 18.4,
+            "votes": 34625,
+            "status": "lost"
+          },
+          {
+            "name": "津野照久",
+            "party": "参政",
+            "percentage": 6.8,
+            "votes": 12704,
+            "status": "lost"
+          }
+        ],
+        "turnout": 59.1,
+        "margin": 52858,
+        "marginPt": 28.1
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 5,
+      "regionDescription": "神奈川5区は横浜市戸塚区、泉区、瀬谷区で構成される。横浜市西部の住宅地。",
+      "characteristics": "横浜市西部の住宅地。元官房副長官の坂井学が6期連続当選と自民が安定した強さを持つ。郊外型住宅地で、子育て世代の動向が鍵。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "坂井学",
+            "party": "自民",
+            "percentage": 40.8,
+            "votes": 80495,
+            "status": "elected"
+          },
+          {
+            "name": "山崎誠",
+            "party": "立憲",
+            "percentage": 34.1,
+            "votes": 67399,
+            "status": "proportional"
+          },
+          {
+            "name": "久坂くにえ",
+            "party": "維新",
+            "percentage": 17.1,
+            "votes": 33863,
+            "status": "lost"
+          },
+          {
+            "name": "高宮美智子",
+            "party": "共産",
+            "percentage": 8,
+            "votes": 15794,
+            "status": "lost"
+          }
+        ],
+        "turnout": 56.2,
+        "margin": 13096,
+        "marginPt": 6.6
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 6,
+      "regionDescription": "神奈川6区は横浜市保土ケ谷区、旭区で構成される。横浜市中西部の住宅地。\n\n- **旭区**: よこはま動物園ズーラシアがあり、「生命の共生・自然との調和」をテーマにした動物園。",
+      "characteristics": "横浜市中西部の住宅地。2024年は立憲が勝利。ズーラシアなど家族向け施設が多く、子育て世代の票が重要。無党派層が多く結果が流動的。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "青柳陽一郎",
+            "party": "立憲",
+            "percentage": 40.3,
+            "votes": 80207,
+            "status": "elected"
+          },
+          {
+            "name": "古川直季",
+            "party": "自民",
+            "percentage": 39.8,
+            "votes": 79281,
+            "status": "proportional"
+          },
+          {
+            "name": "塩坂源一郎",
+            "party": "維新",
+            "percentage": 11.6,
+            "votes": 22994,
+            "status": "lost"
+          },
+          {
+            "name": "植木眞理子",
+            "party": "共産",
+            "percentage": 8.3,
+            "votes": 16520,
+            "status": "lost"
+          }
+        ],
+        "turnout": 54.7,
+        "margin": 926,
+        "marginPt": 0.5
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 7,
+      "regionDescription": "神奈川7区は横浜市港北区、都筑区で構成される。新横浜駅周辺と港北ニュータウン。\n\n- **港北区**: 新横浜駅があり、日産スタジアム（横浜国際総合競技場）は2002年FIFAワールドカップ決勝の会場。\n\n- **都筑区**: 港北ニュータウンがあり、計画的に開発された新興住宅地。",
+      "characteristics": "新横浜と港北ニュータウンを含む新興住宅地。人口増加が続き、若い世代の有権者が多い。2024年は立憲が勝利し、都市型選挙区として野党優勢の傾向。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "中谷一馬",
+            "party": "立憲",
+            "percentage": 43.4,
+            "votes": 71913,
+            "status": "elected"
+          },
+          {
+            "name": "鈴木馨祐",
+            "party": "自民",
+            "percentage": 37,
+            "votes": 61337,
+            "status": "proportional"
+          },
+          {
+            "name": "宗像富次郎",
+            "party": "維新",
+            "percentage": 10.1,
+            "votes": 16697,
+            "status": "lost"
+          },
+          {
+            "name": "大野拓夫",
+            "party": "無所属",
+            "percentage": 9.5,
+            "votes": 15678,
+            "status": "lost"
+          }
+        ],
+        "turnout": 57.2,
+        "margin": 10576,
+        "marginPt": 6.4
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 8,
+      "regionDescription": "神奈川8区は横浜市青葉区、緑区で構成される。田園都市線沿線の高級住宅地。\n\n- **青葉区**: たまプラーザ、あざみ野など東急田園都市線沿線の人気住宅地。",
+      "characteristics": "田園都市線沿線の高級住宅地。元みんなの党代表の江田憲司が8期連続当選と強固な地盤を持つ。高学歴・高所得層が多く、政策志向の有権者が多い。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "江田憲司",
+            "party": "立憲",
+            "percentage": 51.4,
+            "votes": 119971,
+            "status": "elected"
+          },
+          {
+            "name": "三谷英弘",
+            "party": "自民",
+            "percentage": 41.1,
+            "votes": 95832,
+            "status": "proportional"
+          },
+          {
+            "name": "飯田能生",
+            "party": "共産",
+            "percentage": 7.5,
+            "votes": 17558,
+            "status": "lost"
+          }
+        ],
+        "turnout": 58.7,
+        "margin": 24139,
+        "marginPt": 10.3
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 9,
+      "regionDescription": "神奈川9区は川崎市多摩区、麻生区で構成される。小田急線沿線の住宅地。\n\n- **麻生区**: 新百合ヶ丘が中心で、昭和音楽大学、日本映画大学など文化施設が集積。\n\n- **多摩区**: 藤子・F・不二雄ミュージアム（ドラえもんミュージアム）がある。",
+      "characteristics": "川崎市北部の小田急線沿線。文化施設が集積し、ドラえもんミュージアムなど家族向けスポットも多い。2024年は立憲が勝利し、野党優勢の傾向。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "笠浩史",
+            "party": "立憲",
+            "percentage": 49.6,
+            "votes": 93878,
+            "status": "elected"
+          },
+          {
+            "name": "中山展宏",
+            "party": "自民",
+            "percentage": 27.6,
+            "votes": 52358,
+            "status": "lost"
+          },
+          {
+            "name": "吉田大成",
+            "party": "維新",
+            "percentage": 12.8,
+            "votes": 24283,
+            "status": "lost"
+          },
+          {
+            "name": "赤石博子",
+            "party": "共産",
+            "percentage": 9.9,
+            "votes": 18835,
+            "status": "lost"
+          }
+        ],
+        "turnout": 58,
+        "margin": 41520,
+        "marginPt": 21.9
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 10,
+      "regionDescription": "神奈川10区は川崎市川崎区、幸区、中原区で構成される。川崎駅周辺と武蔵小杉。\n\n- **川崎区**: 川崎駅周辺の商業地域と川崎大師。川崎大師は厄除けで有名で、初詣には300万人以上が参拝。\n\n- **中原区**: 武蔵小杉駅周辺がタワーマンションの林立で「ムサコ」として人気に。",
+      "characteristics": "川崎駅周辺と武蔵小杉を含む。タワーマンションの林立で人口急増中の武蔵小杉は、若いファミリー層が多い。2024年は立憲が勝利し、都市型選挙区として野党が強い。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "田中和徳",
+            "party": "自民",
+            "percentage": 34.6,
+            "votes": 57380,
+            "status": "elected"
+          },
+          {
+            "name": "金村龍那",
+            "party": "維新",
+            "percentage": 30.9,
+            "votes": 51121,
+            "status": "proportional"
+          },
+          {
+            "name": "鈴木光貴",
+            "party": "立憲",
+            "percentage": 23.8,
+            "votes": 39409,
+            "status": "lost"
+          },
+          {
+            "name": "片柳進",
+            "party": "共産",
+            "percentage": 10.7,
+            "votes": 17700,
+            "status": "lost"
+          }
+        ],
+        "turnout": 51.7,
+        "margin": 6259,
+        "marginPt": 3.8
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 11,
+      "regionDescription": "神奈川11区は横須賀市、三浦市で構成される。三浦半島の先端部。\n\n- **横須賀市**: 米海軍横須賀基地があり、海軍カレーが名物。記念艦三笠は日露戦争の旗艦。\n\n- **三浦市**: マグロで有名な三崎港があり、「三崎のマグロ」は全国的なブランド。",
+      "characteristics": "小泉進次郎の牙城。父・小泉純一郎から引き継いだ圧倒的な地盤を持ち、6期連続当選。自民党の次期リーダー候補として全国的に注目される。横須賀の米軍基地問題も争点。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "小泉進次郎",
+            "party": "自民",
+            "percentage": 72.4,
+            "votes": 129779,
+            "status": "elected"
+          },
+          {
+            "name": "為壮稔",
+            "party": "共産",
+            "percentage": 13.9,
+            "votes": 24850,
+            "status": "lost"
+          },
+          {
+            "name": "初鹿野裕樹",
+            "party": "参政",
+            "percentage": 13.8,
+            "votes": 24718,
+            "status": "lost"
+          }
+        ],
+        "turnout": 51.8,
+        "margin": 104929,
+        "marginPt": 58.5
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 12,
+      "regionDescription": "神奈川12区は藤沢市、寒川町で構成される。湘南の中心都市。\n\n- **藤沢市**: 湘南海岸、江の島があり、サーフィンのメッカ。新江ノ島水族館は人気の観光スポット。",
+      "characteristics": "湘南の中心・藤沢市と江の島を含む。小児科医出身の阿部知子が8期連続当選と立憲が強い地盤を持つ。サーフィン文化など若者の街であり、環境問題への関心も高い。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "阿部知子",
+            "party": "立憲",
+            "percentage": 39.7,
+            "votes": 84310,
+            "status": "elected"
+          },
+          {
+            "name": "星野剛士",
+            "party": "自民",
+            "percentage": 30.9,
+            "votes": 65684,
+            "status": "proportional"
+          },
+          {
+            "name": "水戸将史",
+            "party": "維新",
+            "percentage": 13.9,
+            "votes": 29458,
+            "status": "lost"
+          },
+          {
+            "name": "江岡貴宏",
+            "party": "参政",
+            "percentage": 9.2,
+            "votes": 19518,
+            "status": "lost"
+          },
+          {
+            "name": "加藤なを子",
+            "party": "共産",
+            "percentage": 6.3,
+            "votes": 13326,
+            "status": "lost"
+          }
+        ],
+        "turnout": 53,
+        "margin": 18626,
+        "marginPt": 8.8
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 13,
+      "regionDescription": "神奈川13区は大和市、海老名市、座間市、綾瀬市で構成される。相鉄線・小田急線沿線。\n\n- **海老名市**: 海老名駅周辺が再開発で発展。ビナウォークは大型商業施設。\n\n- **座間市**: 米軍キャンプ座間がある。ひまわりまつりは55万本のひまわりが咲く。",
+      "characteristics": "相鉄線・小田急線沿線の住宅都市。2024年は甘利明元幹事長が20区から移動予定で、立憲との激戦が予想される。米軍キャンプ座間もあり、基地問題も争点に。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "太栄志",
+            "party": "立憲",
+            "percentage": 47.1,
+            "votes": 88833,
+            "status": "elected"
+          },
+          {
+            "name": "丸田康一郎",
+            "party": "自民",
+            "percentage": 32,
+            "votes": 60237,
+            "status": "lost"
+          },
+          {
+            "name": "京利英",
+            "party": "維新",
+            "percentage": 8.8,
+            "votes": 16531,
+            "status": "lost"
+          },
+          {
+            "name": "石井匡",
+            "party": "参政",
+            "percentage": 6.5,
+            "votes": 12177,
+            "status": "lost"
+          },
+          {
+            "name": "早川宇多子",
+            "party": "共産",
+            "percentage": 5.7,
+            "votes": 10703,
+            "status": "lost"
+          }
+        ],
+        "turnout": 52,
+        "margin": 28596,
+        "marginPt": 15.2
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 14,
+      "regionDescription": "神奈川14区は相模原市緑区、中央区で構成される。相模原市の中心部と山間部。\n\n- **相模原市**: 人口約72万人の政令指定都市。JAXA相模原キャンパスは「はやぶさ」などの宇宙探査の拠点。",
+      "characteristics": "相模原市の中心部とJAXA相模原キャンパスを含む。宇宙開発の拠点として科学技術への関心が高い。赤間二郎が6期連続当選と自民が安定した強さを持つ。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "赤間二郎",
+            "party": "自民",
+            "percentage": 39.6,
+            "votes": 81428,
+            "status": "elected"
+          },
+          {
+            "name": "長友克洋",
+            "party": "立憲",
+            "percentage": 36.1,
+            "votes": 74238,
+            "status": "proportional"
+          },
+          {
+            "name": "熊坂崇徳",
+            "party": "維新",
+            "percentage": 9.6,
+            "votes": 19764,
+            "status": "lost"
+          },
+          {
+            "name": "先沖仁志",
+            "party": "参政",
+            "percentage": 7.3,
+            "votes": 15090,
+            "status": "lost"
+          },
+          {
+            "name": "中村圭",
+            "party": "共産",
+            "percentage": 7.3,
+            "votes": 14930,
+            "status": "lost"
+          }
+        ],
+        "turnout": 52.5,
+        "margin": 7190,
+        "marginPt": 3.5
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 15,
+      "regionDescription": "神奈川15区は平塚市、茅ヶ崎市、大磯町、二宮町で構成される。湘南西部。\n\n- **茅ヶ崎市**: サザンオールスターズの桑田佳祐の出身地で、サザンビーチちがさきは聖地。\n\n- **平塚市**: 七夕まつりで有名。湘南ベルマーレの本拠地。",
+      "characteristics": "河野太郎の牙城。10期連続当選で首相候補の一人として全国的な知名度を持つ。サザンオールスターズの聖地・茅ヶ崎を含み、若者文化と地元愛が強い選挙区。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "河野太郎",
+            "party": "自民",
+            "percentage": 55.6,
+            "votes": 128881,
+            "status": "elected"
+          },
+          {
+            "name": "佐々木克己",
+            "party": "社民",
+            "percentage": 17.2,
+            "votes": 39980,
+            "status": "lost"
+          },
+          {
+            "name": "内海聡",
+            "party": "無所属",
+            "percentage": 16.9,
+            "votes": 39183,
+            "status": "lost"
+          },
+          {
+            "name": "藤田修一",
+            "party": "参政",
+            "percentage": 10.3,
+            "votes": 23793,
+            "status": "lost"
+          }
+        ],
+        "turnout": 53.3,
+        "margin": 88901,
+        "marginPt": 38.4
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 16,
+      "regionDescription": "神奈川16区は厚木市、伊勢原市、愛川町、清川村で構成される。丹沢山地の麓。\n\n- **厚木市**: 本厚木駅周辺が商業地域。厚木シロコロ・ホルモンはB-1グランプリで優勝。\n\n- **伊勢原市**: 大山阿夫利神社があり、大山詣りは江戸時代から続く信仰。",
+      "characteristics": "丹沢山地の麓の厚木・伊勢原を含む。大山詣りの歴史を持つ信仰の地。2024年は立憲が勝利し、接戦区として注目。B級グルメ「シロコロ・ホルモン」の地元愛も強い。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "後藤祐一",
+            "party": "立憲",
+            "percentage": 50.4,
+            "votes": 100677,
+            "status": "elected"
+          },
+          {
+            "name": "義家弘介",
+            "party": "自民",
+            "percentage": 33.5,
+            "votes": 66952,
+            "status": "lost"
+          },
+          {
+            "name": "伊左次美江",
+            "party": "維新",
+            "percentage": 8.2,
+            "votes": 16325,
+            "status": "lost"
+          },
+          {
+            "name": "山本瑞恵",
+            "party": "共産",
+            "percentage": 5.7,
+            "votes": 11437,
+            "status": "lost"
+          },
+          {
+            "name": "吉村勝男",
+            "party": "無所属",
+            "percentage": 2.2,
+            "votes": 4364,
+            "status": "lost"
+          }
+        ],
+        "turnout": 53.3,
+        "margin": 33725,
+        "marginPt": 16.9
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 17,
+      "regionDescription": "神奈川17区は小田原市、南足柄市、中井町、大井町、松田町、山北町、開成町、箱根町、真鶴町、湯河原町で構成される。県西部の観光地。\n\n- **小田原市**: 小田原城の城下町で、かまぼこ、干物が名産。\n\n- **箱根町**: 温泉リゾートとして全国的に有名。芦ノ湖、大涌谷、箱根駅伝など見どころ多数。",
+      "characteristics": "小田原城下町と箱根温泉を含む県西部の観光地。元デジタル大臣の牧島かれんが5期連続当選と自民が強い。観光業の振興と箱根駅伝で知名度の高い地域。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "牧島かれん",
+            "party": "自民",
+            "percentage": 50.9,
+            "votes": 115235,
+            "status": "elected"
+          },
+          {
+            "name": "佐々木奈保美",
+            "party": "立憲",
+            "percentage": 49.1,
+            "votes": 111061,
+            "status": "proportional"
+          }
+        ],
+        "turnout": 53.1,
+        "margin": 4174,
+        "marginPt": 1.8
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 18,
+      "regionDescription": "神奈川18区は川崎市高津区、宮前区で構成される。田園都市線沿線。\n\n- **宮前区**: 東急田園都市線沿線の住宅地。\n\n- **高津区**: 二子新地、溝の口など商業地域がある。",
+      "characteristics": "田園都市線沿線の川崎市南部。山際大志郎が7期連続当選だが、旧統一教会問題で辞任した経緯があり、その影響が残る。高所得層の住宅地で政治への関心が高い。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "宗野創",
+            "party": "立憲",
+            "percentage": 30.7,
+            "votes": 68632,
+            "status": "elected"
+          },
+          {
+            "name": "西岡義高",
+            "party": "国民",
+            "percentage": 23.5,
+            "votes": 52596,
+            "status": "proportional"
+          },
+          {
+            "name": "山際大志郎",
+            "party": "自民",
+            "percentage": 23.5,
+            "votes": 52593,
+            "status": "proportional"
+          },
+          {
+            "name": "横田光弘",
+            "party": "維新",
+            "percentage": 12.4,
+            "votes": 27727,
+            "status": "lost"
+          },
+          {
+            "name": "君嶋千佳子",
+            "party": "共産",
+            "percentage": 9.8,
+            "votes": 21898,
+            "status": "lost"
+          }
+        ],
+        "turnout": 56,
+        "margin": 16036,
+        "marginPt": 7.2
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 19,
+      "regionDescription": "神奈川19区は相模原市南区で構成される。\n\n- **相模原市南区**: 相模大野駅周辺が商業地域。小田急線沿線の住宅地。",
+      "characteristics": "相模原市南部の小田急線沿線。2024年はペルー出身の帰化日本人・深作ヘススが当選し、初の外国生まれの衆議院議員として全国的に注目された。多様性を象徴する選挙区。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "草間剛",
+            "party": "自民",
+            "percentage": 31.3,
+            "votes": 64315,
+            "status": "elected"
+          },
+          {
+            "name": "佐藤喬",
+            "party": "立憲",
+            "percentage": 24.8,
+            "votes": 50857,
+            "status": "lost"
+          },
+          {
+            "name": "深作ヘスス",
+            "party": "国民",
+            "percentage": 24.6,
+            "votes": 50578,
+            "status": "proportional"
+          },
+          {
+            "name": "添田勝",
+            "party": "維新",
+            "percentage": 12.5,
+            "votes": 25630,
+            "status": "lost"
+          },
+          {
+            "name": "横関克弘",
+            "party": "共産",
+            "percentage": 4.4,
+            "votes": 9008,
+            "status": "lost"
+          },
+          {
+            "name": "木吉小百合",
+            "party": "無所属",
+            "percentage": 2.4,
+            "votes": 4859,
+            "status": "lost"
+          }
+        ],
+        "turnout": 57,
+        "margin": 13458,
+        "marginPt": 6.6
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 20,
+      "regionDescription": "神奈川20区は相模原市の一部、秦野市で構成される。\n\n- **秦野市**: 丹沢登山の玄関口。秦野盆地は落花生の産地。弘法山公園は桜の名所。",
+      "characteristics": "2022年の区割り変更で新設。2024年は甘利明元幹事長が落選する大波乱があった選挙区。甘利は13区に移動予定で、2026年は新たな構図での戦いとなる。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "大塚小百合",
+            "party": "立憲",
+            "percentage": 46.8,
+            "votes": 83282,
+            "status": "elected"
+          },
+          {
+            "name": "甘利明",
+            "party": "自民",
+            "percentage": 35.5,
+            "votes": 63217,
+            "status": "lost"
+          },
+          {
+            "name": "金子洋一",
+            "party": "維新",
+            "percentage": 17.7,
+            "votes": 31550,
+            "status": "lost"
+          }
+        ],
+        "turnout": 53.5,
+        "margin": 20065,
+        "marginPt": 11.3
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    }
+  ],
+  "mapImage": "014kanagawa_22kuwari.png"
+}

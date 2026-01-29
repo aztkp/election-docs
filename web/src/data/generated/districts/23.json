@@ -1,0 +1,767 @@
+{
+  "code": "23",
+  "name": "愛知県",
+  "blockCode": "07",
+  "blockName": "東海",
+  "basicInfo": "愛知県は中部地方に位置し、人口は約754万人で全国4位。県庁所在地は名古屋市。日本有数の工業県で、自動車産業を中心に製造業が集積する。\n\n歴史的には、織田信長、豊臣秀吉、徳川家康の三英傑を輩出した「武将のふるさと」。名古屋城は徳川御三家筆頭の尾張藩の居城であった。\n\n経済的には、トヨタ自動車をはじめとする自動車産業が県経済を牽引。製造品出荷額は日本一を誇る。名古屋めし（ひつまぶし、味噌カツ、手羽先など）は全国的に人気。",
+  "issues": [
+    "自動車産業のEV転換",
+    "リニア中央新幹線",
+    "ジブリパークと観光振興"
+  ],
+  "electionCharacteristics": "愛知県の衆議院小選挙区は16（2022年の区割り変更で15から16に増加）。\n\n2024年の衆院選では16選挙区中、自民党は3選挙区の勝利にとどまり、立憲民主党が7選挙区、国民民主党が3選挙区、日本保守党・公明党・維新がそれぞれ1選挙区を獲得した。特に河村たかし前名古屋市長が日本保守党から出馬し1区で圧勝したことが全国的に注目された。\n\nトヨタ自動車の企業城下町である豊田市を含む11区は、国民民主党のトヨタ労組出身候補が強い影響力を持つ特異な選挙区として知られる。\n\n**2026年選挙の構図**: 16選挙区を擁する日本有数の激戦地域。中道改革連合（立憲+公明の新党）vs 自民党・維新連立の対決が鮮明化。トヨタ関連の労組票の行方が最大の焦点であり、EV転換をめぐる自動車産業の将来が選挙結果を左右する。",
+  "districts": [
+    {
+      "number": 1,
+      "regionDescription": "愛知1区は名古屋市東区、北区、西区、中区で構成される。名古屋市の中心部。\n\n- **名古屋市中区**: 名古屋駅、栄など商業・ビジネスの中心。名古屋城は金のしゃちほこで有名。\n\n- **名古屋市東区**: 徳川園、徳川美術館など尾張徳川家ゆかりの施設がある。",
+      "characteristics": "名古屋市の中心部を含む都市型選挙区。2024年は河村たかし前名古屋市長が日本保守党から出馬し圧勝。自民・立憲の両候補を破る結果となり、全国に衝撃を与えた。日本保守党の動向が2026年選挙でも最大の注目点となる。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "河村たかし",
+            "party": "保守党",
+            "percentage": 46.6,
+            "votes": 95613,
+            "status": "elected"
+          },
+          {
+            "name": "吉田統彦",
+            "party": "立憲",
+            "percentage": 23.6,
+            "votes": 48304,
+            "status": "lost"
+          },
+          {
+            "name": "熊田裕通",
+            "party": "自民",
+            "percentage": 21.1,
+            "votes": 43381,
+            "status": "lost"
+          },
+          {
+            "name": "山本耕一",
+            "party": "維新",
+            "percentage": 8.7,
+            "votes": 17810,
+            "status": "lost"
+          }
+        ],
+        "turnout": 50.8,
+        "margin": 47309,
+        "marginPt": 23.1
+      },
+      "candidates2026": [
+        {
+          "name": "河村たかし",
+          "party": "減税日本",
+          "status": "前職",
+          "age": 77,
+          "title": "政治団体代表",
+          "wins": 6
+        },
+        {
+          "name": "くまだ裕通",
+          "party": "自民",
+          "status": "元職",
+          "age": 61,
+          "title": "選挙区支部長",
+          "wins": 4
+        },
+        {
+          "name": "吉田統彦",
+          "party": "中道改革連合",
+          "status": "元職",
+          "age": 51,
+          "title": "医師",
+          "wins": 3
+        },
+        {
+          "name": "近田あかね",
+          "party": "参政",
+          "status": "新人",
+          "age": 33,
+          "title": "健康サロン運営、元小学校教諭"
+        }
+      ],
+      "analysis2026": "2024年に日本保守党から出馬し圧勝した河村たかしが、今回は減税日本から前職として出馬。元職のくまだ裕通(自民)、吉田統彦(中道改革連合・医師)、参政党の近田あかね(元教諭)の4人の争い。河村たかしの動向が最大の注目点。"
+    },
+    {
+      "number": 2,
+      "regionDescription": "愛知2区は名古屋市千種区、守山区、名東区で構成される。名古屋市東部の住宅地。\n\n- **千種区**: 覚王山、本山など閑静な住宅地。\n\n- **名東区**: 名古屋インターチェンジがあり、ベッドタウンとして発展。",
+      "characteristics": "名古屋市東部の住宅地を含む選挙区。古川元久（元内閣官房副長官、国民民主党重鎮）が10期連続当選を果たす強固な地盤を持つ。国民民主党の牙城として知られ、安定した選挙区である。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "古川元久",
+            "party": "国民",
+            "percentage": 58.5,
+            "votes": 121739,
+            "status": "elected"
+          },
+          {
+            "name": "中川貴元",
+            "party": "自民",
+            "percentage": 24.1,
+            "votes": 50195,
+            "status": "lost"
+          },
+          {
+            "name": "室園幸志",
+            "party": "維新",
+            "percentage": 9.1,
+            "votes": 18864,
+            "status": "lost"
+          },
+          {
+            "name": "酒井健太朗",
+            "party": "共産",
+            "percentage": 8.4,
+            "votes": 17422,
+            "status": "lost"
+          }
+        ],
+        "turnout": 52.7,
+        "margin": 71544,
+        "marginPt": 34.4
+      },
+      "candidates2026": [
+        {
+          "name": "古川元久",
+          "party": "国民",
+          "status": "前職",
+          "age": 60,
+          "title": "元内閣官房副長官、政党役員",
+          "wins": 10
+        },
+        {
+          "name": "つじ秀樹",
+          "party": "自民",
+          "status": "新人",
+          "age": 50,
+          "title": "選挙区支部長"
+        },
+        {
+          "name": "酒井ケンタロー",
+          "party": "共産",
+          "status": "新人",
+          "age": 40,
+          "title": "政党役員"
+        },
+        {
+          "name": "梅村ただし",
+          "party": "減税日本",
+          "status": "新人",
+          "age": 69,
+          "title": "歯科医院院長"
+        }
+      ],
+      "analysis2026": "2024年に大差で勝利した古川元久(国民・元内閣官房副長官)が11期目を目指す。自民の新人つじ秀樹、共産の酒井ケンタロー、減税日本の梅村ただし(歯科医師)の4人の争い。国民民主党の牙城。"
+    },
+    {
+      "number": 3,
+      "regionDescription": "愛知3区は名古屋市昭和区、緑区、天白区で構成される。名古屋市南東部。\n\n- **緑区**: 名古屋市最大の人口を持つ区。大高緑地がある。",
+      "characteristics": "名古屋市南東部を含む選挙区。近藤昭一（立憲民主党重鎮）が10期連続当選を果たす強固な地盤を持つ。野党の牙城として知られ、安定した選挙区である。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "近藤昭一",
+            "party": "立憲",
+            "percentage": 47,
+            "votes": 103624,
+            "status": "elected"
+          },
+          {
+            "name": "水野良彦",
+            "party": "自民",
+            "percentage": 24.6,
+            "votes": 54199,
+            "status": "lost"
+          },
+          {
+            "name": "皆川雅一",
+            "party": "維新",
+            "percentage": 12.3,
+            "votes": 27187,
+            "status": "lost"
+          },
+          {
+            "name": "大橋享",
+            "party": "保守党",
+            "percentage": 8.3,
+            "votes": 18412,
+            "status": "lost"
+          },
+          {
+            "name": "杉本純子",
+            "party": "参政",
+            "percentage": 7.8,
+            "votes": 17234,
+            "status": "lost"
+          }
+        ],
+        "turnout": 54.2,
+        "margin": 49425,
+        "marginPt": 22.4
+      },
+      "candidates2026": [
+        {
+          "name": "近藤昭一",
+          "party": "中道改革連合",
+          "status": "前職",
+          "age": 67,
+          "title": "政党役員",
+          "wins": 10
+        },
+        {
+          "name": "水野よしひこ",
+          "party": "自民",
+          "status": "新人",
+          "age": 52,
+          "title": "選挙区支部長"
+        },
+        {
+          "name": "平岩まさき",
+          "party": "減税日本",
+          "status": "前職",
+          "age": 46,
+          "title": "会社顧問",
+          "wins": 1
+        },
+        {
+          "name": "皆川まさかず",
+          "party": "維新",
+          "status": "新人",
+          "age": 44,
+          "title": "個人事業主"
+        },
+        {
+          "name": "柴田たみお",
+          "party": "共産",
+          "status": "新人",
+          "age": 60,
+          "title": "自営業"
+        }
+      ],
+      "analysis2026": "2024年に大差で勝利した近藤昭一(中道改革連合)が11期目を目指す。自民の新人水野よしひこ、減税日本の平岩まさき(前職)、維新の皆川まさかず、共産の柴田たみおの5人の争い。中道改革連合の牙城。"
+    },
+    {
+      "number": 4,
+      "regionDescription": "愛知4区は名古屋市瑞穂区、熱田区、港区、南区で構成される。名古屋市南部。\n\n- **熱田区**: 熱田神宮があり、三種の神器の一つ草薙剣を祀る。\n\n- **港区**: 名古屋港水族館、レゴランド・ジャパンがある。",
+      "characteristics": "熱田神宮や名古屋港水族館を含む名古屋市南部の選挙区。牧義夫（立憲）が8期連続当選を果たす野党優勢の選挙区。レゴランド・ジャパンなど観光施設もあり、多様な顔を持つ地域。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "牧義夫",
+            "party": "立憲",
+            "percentage": 36.4,
+            "votes": 63668,
+            "status": "elected"
+          },
+          {
+            "name": "工藤彰三",
+            "party": "自民",
+            "percentage": 31.1,
+            "votes": 54385,
+            "status": "proportional"
+          },
+          {
+            "name": "中田千代",
+            "party": "維新",
+            "percentage": 12.9,
+            "votes": 22661,
+            "status": "lost"
+          },
+          {
+            "name": "麻生知沙",
+            "party": "保守党",
+            "percentage": 11.3,
+            "votes": 19805,
+            "status": "lost"
+          },
+          {
+            "name": "高橋祐介",
+            "party": "共産",
+            "percentage": 8.3,
+            "votes": 14453,
+            "status": "lost"
+          }
+        ],
+        "turnout": 48.8,
+        "margin": 9283,
+        "marginPt": 5.3
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 5,
+      "regionDescription": "愛知5区は名古屋市中村区、中川区で構成される。名古屋駅西側。\n\n- **中村区**: 名古屋駅周辺の再開発が進む。豊臣秀吉生誕の地としても知られる。",
+      "characteristics": "名古屋駅西側を含む選挙区。赤松広隆（元農林水産大臣、元衆議院副議長）が11期連続当選を果たす立憲民主党の重鎮。豊臣秀吉生誕の地を含む歴史的なエリアでもある。高齢の現職のため後継問題も注目される。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "西川厚志",
+            "party": "立憲",
+            "percentage": 34.5,
+            "votes": 54818,
+            "status": "elected"
+          },
+          {
+            "name": "神田憲次",
+            "party": "自民",
+            "percentage": 23.1,
+            "votes": 36662,
+            "status": "lost"
+          },
+          {
+            "name": "岬麻紀",
+            "party": "維新",
+            "percentage": 21.2,
+            "votes": 33568,
+            "status": "lost"
+          },
+          {
+            "name": "田中克和",
+            "party": "保守党",
+            "percentage": 13.9,
+            "votes": 22007,
+            "status": "lost"
+          },
+          {
+            "name": "江上博之",
+            "party": "共産",
+            "percentage": 7.3,
+            "votes": 11601,
+            "status": "lost"
+          }
+        ],
+        "turnout": 47.2,
+        "margin": 18156,
+        "marginPt": 11.4
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 6,
+      "regionDescription": "愛知6区は瀬戸市、春日井市、犬山市、小牧市で構成される。尾張北部。\n\n- **犬山市**: 国宝犬山城があり、「尾張の小京都」と呼ばれる。犬山祭の車山はユネスコ無形文化遺産。\n\n- **瀬戸市**: 瀬戸焼の産地。せともの祭りは有名。",
+      "characteristics": "国宝犬山城や瀬戸焼の産地を含む尾張北部の選挙区。丹羽秀樹（元文部科学副大臣）が6期連続当選を果たす自民党の地盤。愛知県内で自民党が勝利した数少ない選挙区の一つ。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "丹羽秀樹",
+            "party": "自民",
+            "percentage": 51.7,
+            "votes": 92083,
+            "status": "elected"
+          },
+          {
+            "name": "前田雄吉",
+            "party": "無所属",
+            "percentage": 18.3,
+            "votes": 32608,
+            "status": "lost"
+          },
+          {
+            "name": "大西雅人",
+            "party": "社民",
+            "percentage": 15.1,
+            "votes": 26854,
+            "status": "lost"
+          },
+          {
+            "name": "原田学",
+            "party": "共産",
+            "percentage": 14.8,
+            "votes": 26425,
+            "status": "lost"
+          }
+        ],
+        "turnout": 52.7,
+        "margin": 59475,
+        "marginPt": 33.4
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 7,
+      "regionDescription": "愛知7区は大府市、尾張旭市、豊明市、日進市、長久手市、東郷町で構成される。名古屋市近郊。\n\n- **長久手市**: 愛・地球博記念公園（モリコロパーク）、ジブリパークがある。人口増加率が高い。",
+      "characteristics": "ジブリパークがある長久手市を含む名古屋近郊の選挙区。鈴木淳司（元総務大臣）が7期連続当選を果たす自民党の地盤。人口増加率が高い長久手市など、発展著しい地域を含む。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "日野紗里亜",
+            "party": "国民",
+            "percentage": 55.9,
+            "votes": 111406,
+            "status": "elected"
+          },
+          {
+            "name": "鈴木淳司",
+            "party": "自民",
+            "percentage": 35.7,
+            "votes": 71176,
+            "status": "lost"
+          },
+          {
+            "name": "鈴木弘一",
+            "party": "共産",
+            "percentage": 8.4,
+            "votes": 16780,
+            "status": "lost"
+          }
+        ],
+        "turnout": 58.1,
+        "margin": 40230,
+        "marginPt": 20.2
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 8,
+      "regionDescription": "愛知8区は半田市、常滑市、東海市、知多市、阿久比町、東浦町、南知多町、美浜町、武豊町で構成される。知多半島。\n\n- **常滑市**: 中部国際空港（セントレア）があり、中部地方の空の玄関口。常滑焼も有名。\n\n- **半田市**: 醸造業が盛んで、ミツカンの本社がある。新美南吉（ごんぎつねの作者）の出身地。",
+      "characteristics": "中部国際空港（セントレア）を含む知多半島の選挙区。伊藤忠彦が6期連続当選を果たす自民党の地盤。空の玄関口としての重要性と、ミツカン本社がある半田市など製造業も盛んな地域。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "伴野豊",
+            "party": "立憲",
+            "percentage": 49.7,
+            "votes": 115282,
+            "status": "elected"
+          },
+          {
+            "name": "伊藤忠彦",
+            "party": "自民",
+            "percentage": 41.3,
+            "votes": 95844,
+            "status": "proportional"
+          },
+          {
+            "name": "古川大暁",
+            "party": "共産",
+            "percentage": 9,
+            "votes": 20799,
+            "status": "lost"
+          }
+        ],
+        "turnout": 55.4,
+        "margin": 19438,
+        "marginPt": 8.4
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 9,
+      "regionDescription": "愛知9区は津島市、稲沢市、愛西市、弥富市、あま市、大治町、蟹江町、飛島村で構成される。尾張西部。\n\n- **津島市**: 津島神社の門前町。津島天王祭は日本三大川祭りの一つ。",
+      "characteristics": "津島神社を含む尾張西部の選挙区。岡本充功（立憲）が6期連続当選を果たす野党優勢の選挙区。津島天王祭など伝統文化が息づく地域。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "岡本充功",
+            "party": "立憲",
+            "percentage": 48,
+            "votes": 91152,
+            "status": "elected"
+          },
+          {
+            "name": "長坂康正",
+            "party": "自民",
+            "percentage": 41.5,
+            "votes": 78726,
+            "status": "proportional"
+          },
+          {
+            "name": "伊藤恵子",
+            "party": "共産",
+            "percentage": 10.5,
+            "votes": 19899,
+            "status": "lost"
+          }
+        ],
+        "turnout": 52,
+        "margin": 12426,
+        "marginPt": 6.6
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 10,
+      "regionDescription": "愛知10区は一宮市、岩倉市で構成される。尾張一宮エリア。\n\n- **一宮市**: 繊維産業で栄えた都市。138タワーパークがある。",
+      "characteristics": "繊維産業で栄えた一宮市を含む尾張一宮エリア。2024年は元領土問題担当大臣の江崎鉄磨が落選する波乱が起きた選挙区。自民党の地盤が揺らいでおり、2026年も激戦が予想される。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "藤原規眞",
+            "party": "立憲",
+            "percentage": 34.7,
+            "votes": 59691,
+            "status": "elected"
+          },
+          {
+            "name": "若山慎司",
+            "party": "自民",
+            "percentage": 34.6,
+            "votes": 59529,
+            "status": "proportional"
+          },
+          {
+            "name": "杉本和巳",
+            "party": "維新",
+            "percentage": 30.8,
+            "votes": 52957,
+            "status": "proportional"
+          }
+        ],
+        "turnout": 50.8,
+        "margin": 162,
+        "marginPt": 0.1
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 11,
+      "regionDescription": "愛知11区は豊田市、みよし市で構成される。トヨタ自動車の企業城下町。\n\n- **豊田市**: トヨタ自動車の本社がある企業城下町。トヨタ産業技術記念館、トヨタ博物館がある。足助の香嵐渓は紅葉の名所。",
+      "characteristics": "トヨタ自動車の本社がある豊田市を含む企業城下町。古本伸一郎（国民民主党、トヨタ自動車労組出身）が強い影響力を持ち、自動車産業の動向が選挙結果を左右する特異な選挙区。EV化への対応が地域経済の最大の関心事。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "丹野みどり",
+            "party": "国民",
+            "percentage": 56.9,
+            "votes": 134528,
+            "status": "elected"
+          },
+          {
+            "name": "八木哲也",
+            "party": "自民",
+            "percentage": 38.4,
+            "votes": 90844,
+            "status": "lost"
+          },
+          {
+            "name": "植田和男",
+            "party": "共産",
+            "percentage": 4.7,
+            "votes": 11105,
+            "status": "lost"
+          }
+        ],
+        "turnout": 63.3,
+        "margin": 43684,
+        "marginPt": 18.5
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 12,
+      "regionDescription": "愛知12区は岡崎市、西尾市で構成される。西三河地域。\n\n- **岡崎市**: 徳川家康生誕の地。岡崎城、八丁味噌で有名。",
+      "characteristics": "徳川家康生誕の地・岡崎市を含む西三河地域の選挙区。重徳和彦（立憲）が勝利し、野党優勢。八丁味噌など伝統的な食文化が息づく歴史ある地域。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "重徳和彦",
+            "party": "立憲",
+            "percentage": 50.5,
+            "votes": 126940,
+            "status": "elected"
+          },
+          {
+            "name": "青山周平",
+            "party": "自民",
+            "percentage": 34.2,
+            "votes": 86025,
+            "status": "lost"
+          },
+          {
+            "name": "中川博登",
+            "party": "維新",
+            "percentage": 11.3,
+            "votes": 28489,
+            "status": "lost"
+          },
+          {
+            "name": "関久一",
+            "party": "共産",
+            "percentage": 4,
+            "votes": 10118,
+            "status": "lost"
+          }
+        ],
+        "turnout": 58,
+        "margin": 40915,
+        "marginPt": 16.3
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 13,
+      "regionDescription": "愛知13区は碧南市、刈谷市、安城市、知立市、高浜市で構成される。西三河南部。\n\n- **刈谷市**: デンソー、アイシンなどトヨタグループの本社が集積。\n\n- **安城市**: 「日本のデンマーク」と呼ばれた農業先進地。",
+      "characteristics": "デンソー、アイシンなどトヨタグループの本社が集積する刈谷市を含む西三河南部の選挙区。大西健介（立憲）が勝利し、野党優勢。自動車産業の下請け企業が多く、EV化の影響を最も受ける地域の一つ。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "大西健介",
+            "party": "立憲",
+            "percentage": 56.3,
+            "votes": 137944,
+            "status": "elected"
+          },
+          {
+            "name": "石井拓",
+            "party": "自民",
+            "percentage": 36.8,
+            "votes": 90214,
+            "status": "lost"
+          },
+          {
+            "name": "牛田清博",
+            "party": "共産",
+            "percentage": 6.9,
+            "votes": 16818,
+            "status": "lost"
+          }
+        ],
+        "turnout": 59.9,
+        "margin": 47730,
+        "marginPt": 19.5
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 14,
+      "regionDescription": "愛知14区は豊川市、蒲郡市、新城市、田原市、設楽町、東栄町、豊根村で構成される。東三河地域。\n\n- **豊川市**: 豊川稲荷で有名。日本三大稲荷の一つに数えられる。\n\n- **蒲郡市**: ラグーナテンボス、竹島など観光スポットが豊富。",
+      "characteristics": "豊川稲荷や観光リゾート・蒲郡を含む東三河地域の選挙区。2024年は今枝宗一郎（自民）が落選する波乱が起きた。自民党の地盤が崩れつつあり、2026年も激戦が予想される。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "今枝宗一郎",
+            "party": "自民",
+            "percentage": 54.7,
+            "votes": 90334,
+            "status": "elected"
+          },
+          {
+            "name": "大嶽理恵",
+            "party": "立憲",
+            "percentage": 39.2,
+            "votes": 64763,
+            "status": "proportional"
+          },
+          {
+            "name": "浅尾大輔",
+            "party": "共産",
+            "percentage": 6,
+            "votes": 9970,
+            "status": "lost"
+          }
+        ],
+        "turnout": 58.3,
+        "margin": 25571,
+        "marginPt": 15.5
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 15,
+      "regionDescription": "愛知15区は豊橋市で構成される。東三河の中心都市。\n\n- **豊橋市**: 人口約37万人で東三河の中心。手筒花火が有名。豊橋カレーうどんはご当地グルメ。",
+      "characteristics": "東三河の中心都市・豊橋市を含む選挙区。関健一郎（立憲）が勝利し、野党優勢。手筒花火で有名な地域であり、豊橋カレーうどんなど独自の食文化も根付いている。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "根本幸典",
+            "party": "自民",
+            "percentage": 38.7,
+            "votes": 71012,
+            "status": "elected"
+          },
+          {
+            "name": "関健一郎",
+            "party": "維新",
+            "percentage": 24.5,
+            "votes": 44945,
+            "status": "lost"
+          },
+          {
+            "name": "小山千帆",
+            "party": "立憲",
+            "percentage": 23.3,
+            "votes": 42837,
+            "status": "proportional"
+          },
+          {
+            "name": "辻恵",
+            "party": "れいわ",
+            "percentage": 9.6,
+            "votes": 17529,
+            "status": "lost"
+          },
+          {
+            "name": "髙木繁",
+            "party": "共産",
+            "percentage": 3.9,
+            "votes": 7220,
+            "status": "lost"
+          }
+        ],
+        "turnout": 55,
+        "margin": 26067,
+        "marginPt": 14.2
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    },
+    {
+      "number": 16,
+      "regionDescription": "愛知16区は江南市、清須市、北名古屋市、豊山町、大口町、扶桑町で構成される。尾張北部。",
+      "characteristics": "2022年の区割り変更で新設された選挙区。犬飼明佳（公明）が勝利し、公明党の地盤となっている。中道改革連合結成後の公明党の動向が注目される。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "福田徹",
+            "party": "国民",
+            "percentage": 32.7,
+            "votes": 65923,
+            "status": "elected"
+          },
+          {
+            "name": "犬飼明佳",
+            "party": "公明",
+            "percentage": 31.3,
+            "votes": 63095,
+            "status": "lost"
+          },
+          {
+            "name": "松田功",
+            "party": "立憲",
+            "percentage": 30.7,
+            "votes": 61792,
+            "status": "proportional"
+          },
+          {
+            "name": "松崎省三",
+            "party": "共産",
+            "percentage": 5.3,
+            "votes": 10634,
+            "status": "lost"
+          }
+        ],
+        "turnout": 53.6,
+        "margin": 2828,
+        "marginPt": 1.4
+      },
+      "candidates2026": [],
+      "analysis2026": ""
+    }
+  ],
+  "mapImage": "023aichi_22kuwari.png"
+}

@@ -1,0 +1,2526 @@
+{
+  "code": "13",
+  "name": "東京都",
+  "blockCode": "05",
+  "blockName": "東京",
+  "basicInfo": "東京都は日本の首都で、人口は約1,400万人で全国1位。23の特別区、26の市、5の町、8の村で構成される。日本の政治、経済、文化の中心であり、世界有数のメガシティである。\n\n歴史的には、徳川家康が1603年に江戸幕府を開いて以来、日本の中心として発展した。明治維新後に東京と改称され、皇居が置かれた。関東大震災（1923年）と東京大空襲（1945年）で壊滅的な被害を受けたが、復興を遂げた。2020年には東京オリンピック・パラリンピックが開催された。\n\n経済的には、日本のGDPの約2割を占め、世界有数の経済都市。東京証券取引所は世界三大証券取引所の一つ。渋谷、新宿、池袋など複数の副都心が発展している。",
+  "issues": [
+    "首都機能と一極集中",
+    "少子化対策",
+    "2020年東京オリンピック・パラリンピックのレガシー"
+  ],
+  "electionCharacteristics": "東京都の衆議院小選挙区は30（2022年の区割り変更で25から30に増加）。全国最多の選挙区数を誇り、日本の政治動向を左右する最重要地域である。\n\n無党派層が非常に多く、政治への「風」が最も影響しやすい地域。選挙ごとに結果が大きく変動し、全国の選挙結果を占う指標となる。都心部は立憲・野党が強く、多摩地域は自民と野党が拮抗する傾向がある。\n\n2024年の衆院選では、裏金問題の影響で立憲民主党が30選挙区中15選挙区で勝利し、自民党は11選挙区にとどまった。萩生田光一、平沢勝栄など自民党有力者が非公認となりながらも当選するなど、複雑な結果となった。\n\n**2026年選挙の構図**: 中道改革連合vs自民・維新連立の最大の激戦地。中道は立憲出身の現職を中心に全30区で擁立。注目選挙区は1区（海江田vs山田の再戦）、18区（菅直人落選の武蔵野市）、24区（萩生田光一の復権なるか）など。元公明の29区・岡本三成は比例に転出し、中道から新人が出馬。",
+  "districts": [
+    {
+      "number": 1,
+      "regionDescription": "東京1区は千代田区、港区、新宿区の一部で構成される。皇居周辺と都心部。\n\n- **千代田区**: 皇居、国会議事堂、霞が関の官庁街がある日本の政治の中心。東京駅、秋葉原も区内にある。\n\n- **港区**: 六本木、赤坂、虎ノ門など商業・ビジネス地区。東京タワー、増上寺がある。",
+      "characteristics": "皇居、国会議事堂、霞が関を含む日本の政治の中心地。元経済産業大臣・民主党代表の海江田万里が8期連続当選と立憲が強い地盤を持つ。76歳と高齢であり、後継問題も浮上。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "海江田万里",
+            "party": "立憲",
+            "percentage": 32,
+            "votes": 56979,
+            "status": "elected"
+          },
+          {
+            "name": "山田美樹",
+            "party": "自民",
+            "percentage": 30.9,
+            "votes": 55040,
+            "status": "lost"
+          },
+          {
+            "name": "音喜多駿",
+            "party": "維新",
+            "percentage": 16.3,
+            "votes": 29002,
+            "status": "lost"
+          },
+          {
+            "name": "佐藤沙織里",
+            "party": "無所属",
+            "percentage": 6.9,
+            "votes": 12255,
+            "status": "lost"
+          },
+          {
+            "name": "中野顕",
+            "party": "共産",
+            "percentage": 6.7,
+            "votes": 11889,
+            "status": "lost"
+          },
+          {
+            "name": "桜井祥子",
+            "party": "参政",
+            "percentage": 6,
+            "votes": 10636,
+            "status": "lost"
+          },
+          {
+            "name": "高木寛史",
+            "party": "みんなでつくる党",
+            "percentage": 0.5,
+            "votes": 951,
+            "status": "lost"
+          },
+          {
+            "name": "新垣宏",
+            "party": "無所属",
+            "percentage": 0.4,
+            "votes": 716,
+            "status": "lost"
+          },
+          {
+            "name": "新藤伸夫",
+            "party": "お金をみんなへ シン独立党",
+            "percentage": 0.3,
+            "votes": 530,
+            "status": "lost"
+          }
+        ],
+        "turnout": 55.6,
+        "margin": 1939,
+        "marginPt": 1.1
+      },
+      "candidates2026": [
+        {
+          "name": "海江田万里",
+          "party": "中道改革連合",
+          "status": "前職",
+          "age": 76,
+          "title": "政党役員",
+          "wins": 9
+        },
+        {
+          "name": "山田みき",
+          "party": "自民",
+          "status": "元職",
+          "age": 51,
+          "title": "選挙区支部長",
+          "wins": 4
+        },
+        {
+          "name": "春山あすか",
+          "party": "維新",
+          "status": "新人",
+          "age": 51,
+          "title": "会社役員"
+        },
+        {
+          "name": "吉川りな",
+          "party": "参政",
+          "status": "現職",
+          "age": 38,
+          "title": "副代表",
+          "wins": 1
+        },
+        {
+          "name": "黒田あさひ",
+          "party": "共産",
+          "status": "新人",
+          "age": 29,
+          "title": "党職員"
+        }
+      ],
+      "analysis2026": "海江田万里は2024年に小選挙区で勝利したが、今回は前職として出馬。山田みき(元職)との再戦に加え、維新の春山あすか、参政党現職の吉川りな、共産党の黒田あさひが加わる5人の争い。"
+    },
+    {
+      "number": 2,
+      "regionDescription": "東京2区は中央区、文京区、台東区の一部で構成される。下町と文教地区。\n\n- **中央区**: 銀座、日本橋など商業の中心。築地市場跡地の再開発が進行中。\n\n- **文京区**: 東京大学、お茶の水女子大学など文教施設が集積。",
+      "characteristics": "銀座、日本橋、東京大学を含む都心部と文教地区。2024年は自民が勝利したが、接戦区として注目。高学歴・高所得層が多く政策志向の有権者が多い。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "辻清人",
+            "party": "自民",
+            "percentage": 37.1,
+            "votes": 66050,
+            "status": "elected"
+          },
+          {
+            "name": "鳩山紀一郎",
+            "party": "国民",
+            "percentage": 27.2,
+            "votes": 48527,
+            "status": "proportional"
+          },
+          {
+            "name": "今村充",
+            "party": "維新",
+            "percentage": 16.8,
+            "votes": 29860,
+            "status": "lost"
+          },
+          {
+            "name": "細野真理",
+            "party": "共産",
+            "percentage": 12.5,
+            "votes": 22316,
+            "status": "lost"
+          },
+          {
+            "name": "最上佳則",
+            "party": "参政",
+            "percentage": 6.4,
+            "votes": 11322,
+            "status": "lost"
+          }
+        ],
+        "turnout": 57.1,
+        "margin": 17523,
+        "marginPt": 9.8
+      },
+      "candidates2026": [
+        {
+          "name": "辻清人",
+          "party": "自民",
+          "status": "現職",
+          "age": 46,
+          "title": "内閣府副大臣",
+          "wins": 5
+        },
+        {
+          "name": "鳩山紀一郎",
+          "party": "国民",
+          "status": "現職",
+          "age": 49,
+          "title": "政党役員",
+          "wins": 1
+        },
+        {
+          "name": "今村充",
+          "party": "維新",
+          "status": "新人",
+          "age": 50,
+          "title": "医師"
+        },
+        {
+          "name": "海江田ゆうすけ",
+          "party": "参政",
+          "status": "新人",
+          "age": 46,
+          "title": "会社役員"
+        },
+        {
+          "name": "ほその真理",
+          "party": "共産",
+          "status": "新人",
+          "age": 44,
+          "title": "党職員"
+        },
+        {
+          "name": "天野こころ",
+          "party": "再生の道",
+          "status": "新人",
+          "age": 36,
+          "title": "会社員"
+        },
+        {
+          "name": "土橋あきひろ",
+          "party": "チーム未来",
+          "status": "新人",
+          "age": 56,
+          "title": "脚本家・小説家"
+        }
+      ],
+      "analysis2026": "辻清人(自民・内閣府副大臣)が現職として5期目を目指す。2024年に比例復活した鳩山紀一郎(国民)が再挑戦、維新の今村充(医師)、参政党の海江田ゆうすけ、共産党など7人の乱戦。"
+    },
+    {
+      "number": 3,
+      "regionDescription": "東京3区は品川区、大田区の一部、島嶼部で構成される。臨海部と伊豆・小笠原諸島。\n\n- **品川区**: 品川駅周辺が再開発で発展。天王洲アイル、大井競馬場がある。\n\n- **伊豆諸島・小笠原諸島**: 東京都に属する島々。小笠原諸島は世界自然遺産。",
+      "characteristics": "品川区と伊豆・小笠原諸島を含む珍しい構成。石原慎太郎元都知事の三男・石原宏高が6期連続当選と自民党が安定。都心部と離島という対照的な地域を抱える。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "石原宏高",
+            "party": "自民",
+            "percentage": 30.6,
+            "votes": 61660,
+            "status": "elected"
+          },
+          {
+            "name": "阿部祐美子",
+            "party": "立憲",
+            "percentage": 26.9,
+            "votes": 54178,
+            "status": "proportional"
+          },
+          {
+            "name": "奥本有里",
+            "party": "国民",
+            "percentage": 15.1,
+            "votes": 30351,
+            "status": "lost"
+          },
+          {
+            "name": "吉平敏孝",
+            "party": "維新",
+            "percentage": 12.8,
+            "votes": 25745,
+            "status": "lost"
+          },
+          {
+            "name": "香西克介",
+            "party": "共産",
+            "percentage": 6,
+            "votes": 12056,
+            "status": "lost"
+          },
+          {
+            "name": "川口めぐみ",
+            "party": "無所属",
+            "percentage": 4.4,
+            "votes": 8822,
+            "status": "lost"
+          },
+          {
+            "name": "植木洋貴",
+            "party": "参政",
+            "percentage": 4.3,
+            "votes": 8731,
+            "status": "lost"
+          }
+        ],
+        "turnout": 56.8,
+        "margin": 7482,
+        "marginPt": 3.7
+      },
+      "candidates2026": [
+        {
+          "name": "石原ひろたか",
+          "party": "自民",
+          "status": "現職",
+          "age": 61,
+          "title": "環境大臣、原子力防災担当大臣",
+          "wins": 6
+        },
+        {
+          "name": "あべ祐美子",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 61,
+          "title": "政党役員",
+          "wins": 1
+        },
+        {
+          "name": "石崎とおる",
+          "party": "維新",
+          "status": "元職",
+          "age": 42,
+          "title": "会社役員",
+          "wins": 3
+        },
+        {
+          "name": "石田しんご",
+          "party": "国民",
+          "status": "新人",
+          "age": 46,
+          "title": "会社役員"
+        },
+        {
+          "name": "植木ひろたか",
+          "party": "参政",
+          "status": "新人",
+          "age": 43,
+          "title": "会社員"
+        }
+      ],
+      "analysis2026": "石原慎太郎元都知事の三男・石原ひろたか(自民・環境大臣)が7期目を目指す。2024年に比例復活したあべ祐美子(中道改革連合)、元職の石崎とおる(維新)、国民民主党の石田しんご、参政党の植木ひろたかの5人の争い。"
+    },
+    {
+      "number": 4,
+      "regionDescription": "東京4区は大田区の大部分で構成される。羽田空港を含む臨海工業地域。\n\n- **大田区**: 羽田空港があり、日本の空の玄関口。蒲田、大森は下町情緒が残る。町工場が集積する「ものづくりのまち」としても知られる。",
+      "characteristics": "羽田空港と町工場の街・大田区を中心とする選挙区。元デジタル副大臣の平将明が7期連続当選と自民が安定。中小企業・ものづくり政策が争点となりやすい。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "平将明",
+            "party": "自民",
+            "percentage": 40.2,
+            "votes": 86773,
+            "status": "elected"
+          },
+          {
+            "name": "井戸正枝",
+            "party": "国民",
+            "percentage": 24,
+            "votes": 51810,
+            "status": "lost"
+          },
+          {
+            "name": "谷川智行",
+            "party": "共産",
+            "percentage": 15.2,
+            "votes": 32909,
+            "status": "lost"
+          },
+          {
+            "name": "石川雅俊",
+            "party": "維新",
+            "percentage": 14.9,
+            "votes": 32063,
+            "status": "lost"
+          },
+          {
+            "name": "塩寺勇太",
+            "party": "参政",
+            "percentage": 5.6,
+            "votes": 12176,
+            "status": "lost"
+          }
+        ],
+        "turnout": 52.3,
+        "margin": 34963,
+        "marginPt": 16.2
+      },
+      "candidates2026": [
+        {
+          "name": "井戸まさえ",
+          "party": "国民",
+          "status": "元職",
+          "age": 60,
+          "title": "ジャーナリスト",
+          "wins": 2
+        },
+        {
+          "name": "嶋悦子",
+          "party": "参政",
+          "status": "新人",
+          "age": 45,
+          "title": "看護師"
+        },
+        {
+          "name": "谷川ともゆき",
+          "party": "共産",
+          "status": "新人",
+          "age": 54,
+          "title": "医師、党職員"
+        }
+      ],
+      "analysis2026": "元デジタル副大臣の平将明(自民・維新推薦)が8期目を目指す。2024年に2位だった井戸まさえ(国民・元職)が再挑戦、参政党の嶋悦子、共産党の谷川ともゆきの4人の争い。維新推薦を得て中道改革連合の候補擁立もない中、平が有利。"
+    },
+    {
+      "number": 5,
+      "regionDescription": "東京5区は目黒区、世田谷区の一部で構成される。高級住宅地。\n\n- **目黒区**: 自由が丘、中目黒など人気の住宅地。目黒川の桜並木は花見の名所。",
+      "characteristics": "自由が丘、中目黒など人気住宅地を含む高級住宅地。2024年は立憲が勝利。若い世代やクリエイティブ層が多く、都市型リベラルの傾向が強い。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "手塚仁雄",
+            "party": "立憲",
+            "percentage": 39.4,
+            "votes": 83016,
+            "status": "elected"
+          },
+          {
+            "name": "若宮健嗣",
+            "party": "自民",
+            "percentage": 32.7,
+            "votes": 69024,
+            "status": "lost"
+          },
+          {
+            "name": "稲葉太郎",
+            "party": "維新",
+            "percentage": 17.3,
+            "votes": 36493,
+            "status": "lost"
+          },
+          {
+            "name": "塗木洋平",
+            "party": "参政",
+            "percentage": 6.6,
+            "votes": 13910,
+            "status": "lost"
+          },
+          {
+            "name": "林理麻",
+            "party": "無所属",
+            "percentage": 2.5,
+            "votes": 5364,
+            "status": "lost"
+          },
+          {
+            "name": "松本健太",
+            "party": "無所属",
+            "percentage": 0.9,
+            "votes": 1889,
+            "status": "lost"
+          },
+          {
+            "name": "福井健太",
+            "party": "無所属",
+            "percentage": 0.5,
+            "votes": 1136,
+            "status": "lost"
+          }
+        ],
+        "turnout": 58.4,
+        "margin": 13992,
+        "marginPt": 6.6
+      },
+      "candidates2026": [
+        {
+          "name": "手塚よしお",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 62,
+          "title": "政党役員",
+          "wins": 6
+        },
+        {
+          "name": "若宮健嗣",
+          "party": "自民",
+          "status": "元職",
+          "age": 63,
+          "title": "元外務副大臣",
+          "wins": 5
+        },
+        {
+          "name": "いなば太郎",
+          "party": "維新",
+          "status": "新人",
+          "age": 33,
+          "title": "会社役員"
+        },
+        {
+          "name": "ぬりき洋平",
+          "party": "参政",
+          "status": "新人",
+          "age": 42,
+          "title": "会社役員"
+        },
+        {
+          "name": "はやし理麻",
+          "party": "無所属",
+          "status": "新人",
+          "age": 34,
+          "title": "ITコンサルタント"
+        }
+      ],
+      "analysis2026": "2024年に小選挙区で勝利した手塚よしお(中道改革連合)と、元外務副大臣の若宮健嗣(自民・元職)の再戦。維新のいなば太郎、参政党のぬりき洋平、無所属のはやし理麻の5人の争い。"
+    },
+    {
+      "number": 6,
+      "regionDescription": "東京6区は世田谷区の大部分で構成される。閑静な住宅地。\n\n- **世田谷区**: 人口約92万人で東京23区最多。下北沢、三軒茶屋、二子玉川など個性的な街が点在。",
+      "characteristics": "東京23区最大の人口を持つ世田谷区が中心。下北沢、三軒茶屋など若者文化の発信地を含む。2024年は立憲が勝利し、都市型リベラルの傾向が続く。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "落合貴之",
+            "party": "立憲",
+            "percentage": 47.4,
+            "votes": 107222,
+            "status": "elected"
+          },
+          {
+            "name": "土屋美和",
+            "party": "自民",
+            "percentage": 28.2,
+            "votes": 63899,
+            "status": "lost"
+          },
+          {
+            "name": "河村建一",
+            "party": "維新",
+            "percentage": 14.5,
+            "votes": 32887,
+            "status": "lost"
+          },
+          {
+            "name": "望月正謹",
+            "party": "参政",
+            "percentage": 9.8,
+            "votes": 22179,
+            "status": "lost"
+          }
+        ],
+        "turnout": 58.8,
+        "margin": 43323,
+        "marginPt": 19.1
+      },
+      "candidates2026": [
+        {
+          "name": "落合貴之",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 46,
+          "title": "政党役員",
+          "wins": 4
+        },
+        {
+          "name": "丸山かつき",
+          "party": "国民",
+          "status": "新人",
+          "age": 58,
+          "title": "会社員"
+        },
+        {
+          "name": "島村なおき",
+          "party": "参政",
+          "status": "新人",
+          "age": 46,
+          "title": "自営業"
+        },
+        {
+          "name": "福村康廣",
+          "party": "世界平和党",
+          "status": "新人",
+          "age": 69,
+          "title": "政治組織代表"
+        }
+      ],
+      "analysis2026": "2024年に大差で勝利した落合貴之(中道改革連合)が再選を目指す。元職のあぜもとしょうご(自民)が雪辱を狙い、国民の丸山かつき、参政党の島村なおき、世界平和党の福村康廣の5人の争い。"
+    },
+    {
+      "number": 7,
+      "regionDescription": "東京7区は渋谷区、中野区の一部で構成される。若者文化の発信地。\n\n- **渋谷区**: スクランブル交差点、ハチ公像で世界的に有名。原宿、表参道はファッションの発信地。\n\n- **中野区**: 中野ブロードウェイがサブカルチャーの聖地。",
+      "characteristics": "渋谷のスクランブル交差点と中野ブロードウェイを含む若者文化の発信地。2024年は立憲が勝利。IT企業やスタートアップが集積し、デジタル政策への関心が高い。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "松尾明弘",
+            "party": "立憲",
+            "percentage": 41.9,
+            "votes": 86252,
+            "status": "elected"
+          },
+          {
+            "name": "丸川珠代",
+            "party": "自民",
+            "percentage": 27.1,
+            "votes": 55848,
+            "status": "lost"
+          },
+          {
+            "name": "小野泰輔",
+            "party": "維新",
+            "percentage": 22.9,
+            "votes": 47196,
+            "status": "lost"
+          },
+          {
+            "name": "石川友梨香",
+            "party": "参政",
+            "percentage": 8.1,
+            "votes": 16588,
+            "status": "lost"
+          }
+        ],
+        "turnout": 53.3,
+        "margin": 30404,
+        "marginPt": 14.8
+      },
+      "candidates2026": [
+        {
+          "name": "松尾あきひろ",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 51,
+          "title": "弁護士",
+          "wins": 2
+        },
+        {
+          "name": "丸川珠代",
+          "party": "自民",
+          "status": "新人",
+          "age": 55,
+          "title": "元参議院議員、選挙区支部長"
+        },
+        {
+          "name": "渡辺やすゆき",
+          "party": "維新",
+          "status": "新人",
+          "age": 53,
+          "title": "行政書士"
+        },
+        {
+          "name": "入江のぶこ",
+          "party": "国民",
+          "status": "新人",
+          "age": 63,
+          "title": "会社役員"
+        },
+        {
+          "name": "石川ゆりか",
+          "party": "参政",
+          "status": "新人",
+          "age": 29,
+          "title": "美容師"
+        },
+        {
+          "name": "みねしま侑也",
+          "party": "チームみらい",
+          "status": "新人",
+          "age": 35,
+          "title": "元IT企業役員"
+        }
+      ],
+      "analysis2026": "2024年に勝利した松尾あきひろ(中道改革連合・弁護士)が再選を目指す。元五輪担当大臣・参議院議員の丸川珠代(自民)が衆院に初挑戦、維新の渡辺やすゆき、国民の入江のぶこ、参政党の石川ゆりか、チームみらいのみねしま侑也の6人の乱戦。"
+    },
+    {
+      "number": 8,
+      "regionDescription": "東京8区は杉並区で構成される。閑静な住宅地と商店街。\n\n- **杉並区**: 高円寺、阿佐ヶ谷、荻窪など個性的な商店街が並ぶ。高円寺阿波おどりは都内最大規模。",
+      "characteristics": "2021年に吉田晴美が石原伸晃元幹事長を破った注目選挙区。2024年も立憲が勝利し、自民党重鎮が敗北した象徴的な選挙区として全国的に注目される。高円寺など個性的な商店街を抱える。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "吉田晴美",
+            "party": "立憲",
+            "percentage": 51,
+            "votes": 116426,
+            "status": "elected"
+          },
+          {
+            "name": "門寛子",
+            "party": "自民",
+            "percentage": 32.9,
+            "votes": 74963,
+            "status": "lost"
+          },
+          {
+            "name": "南北ちとせ",
+            "party": "維新",
+            "percentage": 8.9,
+            "votes": 20342,
+            "status": "lost"
+          },
+          {
+            "name": "大森紀明",
+            "party": "参政",
+            "percentage": 7.2,
+            "votes": 16310,
+            "status": "lost"
+          }
+        ],
+        "turnout": 60,
+        "margin": 41463,
+        "marginPt": 18.2
+      },
+      "candidates2026": [
+        {
+          "name": "吉田はるみ",
+          "party": "中道改革連合",
+          "status": "前職",
+          "age": 54,
+          "title": "政党役員",
+          "wins": 2
+        },
+        {
+          "name": "海保とくま",
+          "party": "れいわ新選組",
+          "status": "新人",
+          "age": 31,
+          "title": "政策委員、政党職員"
+        },
+        {
+          "name": "森田一成",
+          "party": "国民",
+          "status": "新人",
+          "age": 46,
+          "title": "会社員"
+        },
+        {
+          "name": "永井ばく",
+          "party": "参政",
+          "status": "新人",
+          "age": 38,
+          "title": "会社員"
+        },
+        {
+          "name": "大谷しろう",
+          "party": "日本保守党",
+          "status": "新人",
+          "age": 62,
+          "title": "会社代表"
+        },
+        {
+          "name": "藤原ゆきひろ",
+          "party": "無所属",
+          "status": "新人",
+          "age": 92,
+          "title": "個人事業主"
+        }
+      ],
+      "analysis2026": "2024年に石原伸晃を破り連続当選した吉田はるみ(中道改革連合)が再選を目指す。自民の門ひろこ、れいわ新選組の海保とくま、国民の森田一成、参政党の永井ばく、保守党の大谷しろう、92歳の藤原ゆきひろの7人の乱戦。"
+    },
+    {
+      "number": 9,
+      "regionDescription": "東京9区は練馬区の大部分で構成される。緑豊かな住宅地。\n\n- **練馬区**: 人口約74万人で23区2位。としまえん跡地にはハリー・ポッター スタジオツアー東京がオープン。",
+      "characteristics": "ハリー・ポッター スタジオツアー東京がオープンした練馬区が中心。2024年は立憲が勝利。緑豊かな住宅地で、ファミリー層が多い。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "山岸一生",
+            "party": "立憲",
+            "percentage": 44.1,
+            "votes": 75474,
+            "status": "elected"
+          },
+          {
+            "name": "大河内茂太",
+            "party": "維新",
+            "percentage": 13.7,
+            "votes": 23488,
+            "status": "lost"
+          },
+          {
+            "name": "大津綾香",
+            "party": "みんなでつくる党",
+            "percentage": 4.2,
+            "votes": 7245,
+            "status": "lost"
+          }
+        ],
+        "turnout": 57.9,
+        "margin": 51986,
+        "marginPt": 30.4
+      },
+      "candidates2026": [
+        {
+          "name": "山岸一生",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 44,
+          "title": "元新聞記者",
+          "wins": 2
+        },
+        {
+          "name": "薬師寺みちよ",
+          "party": "国民",
+          "status": "新人",
+          "age": 61,
+          "title": "元参議院議員"
+        },
+        {
+          "name": "鈴木文哉",
+          "party": "参政",
+          "status": "新人",
+          "age": 33,
+          "title": "自営業"
+        }
+      ],
+      "analysis2026": "2024年に大差で勝利した山岸一生(中道改革連合)が再選を目指す。元経済産業大臣で2020年に香典問題で辞任した菅原一秀(自民・元職・維新推薦)が復帰を目指す。元参院議員の薬師寺みちよ(国民)、参政党の鈴木文哉の4人の争い。"
+    },
+    {
+      "number": 10,
+      "regionDescription": "東京10区は豊島区、練馬区の一部で構成される。池袋を含む。\n\n- **豊島区**: 池袋駅周辺が巨大ターミナル。サンシャインシティ、雑司が谷鬼子母神がある。",
+      "characteristics": "池袋駅周辺を含む巨大ターミナル駅の選挙区。2024年は自民が勝利。サンシャインシティなど商業施設が集積し、若者から高齢者まで多様な有権者が混在。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "鈴木隼人",
+            "party": "自民",
+            "percentage": 38.6,
+            "votes": 93490,
+            "status": "elected"
+          },
+          {
+            "name": "鈴木庸介",
+            "party": "立憲",
+            "percentage": 38.4,
+            "votes": 92899,
+            "status": "proportional"
+          },
+          {
+            "name": "永野裕子",
+            "party": "維新",
+            "percentage": 16.4,
+            "votes": 39555,
+            "status": "lost"
+          },
+          {
+            "name": "安田伸",
+            "party": "参政",
+            "percentage": 6.6,
+            "votes": 15970,
+            "status": "lost"
+          }
+        ],
+        "turnout": 59.6,
+        "margin": 591,
+        "marginPt": 0.2
+      },
+      "candidates2026": [
+        {
+          "name": "鈴木庸介",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 50,
+          "title": "元NHK記者",
+          "wins": 2
+        },
+        {
+          "name": "梶原みずほ",
+          "party": "国民",
+          "status": "新人",
+          "age": 53,
+          "title": "国際政治学者"
+        },
+        {
+          "name": "安田伸",
+          "party": "参政",
+          "status": "新人",
+          "age": 55,
+          "title": "会社員"
+        },
+        {
+          "name": "小山徹",
+          "party": "世界平和党",
+          "status": "新人",
+          "age": 50,
+          "title": "政治組織代表"
+        }
+      ],
+      "analysis2026": "2024年にわずか591票差で勝利した鈴木隼人(自民・維新推薦)と、比例復活の鈴木庸介(中道改革連合)の再戦。東京で最も僅差だった選挙区の一つで、今回も大接戦が予想される。国民の梶原みずほ、参政党の安田伸も参戦。"
+    },
+    {
+      "number": 11,
+      "regionDescription": "東京11区は板橋区で構成される。下町と住宅地。\n\n- **板橋区**: 東京大仏（乗蓮寺）、板橋区立熱帯環境植物館がある。石神井川沿いの桜が美しい。",
+      "characteristics": "板橋区の下町と住宅地。2024年は立憲が勝利。東京大仏など歴史的スポットもあり、庶民的な雰囲気の選挙区。無党派層の動向が結果を左右。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "阿久津幸彦",
+            "party": "立憲",
+            "percentage": 41,
+            "votes": 80947,
+            "status": "elected"
+          },
+          {
+            "name": "下村博文",
+            "party": "無所属",
+            "percentage": 29,
+            "votes": 57275,
+            "status": "lost"
+          },
+          {
+            "name": "大豆生田実",
+            "party": "維新",
+            "percentage": 16.8,
+            "votes": 33103,
+            "status": "lost"
+          },
+          {
+            "name": "伊波政昇",
+            "party": "共産",
+            "percentage": 8.9,
+            "votes": 17607,
+            "status": "lost"
+          },
+          {
+            "name": "斎藤孝幸",
+            "party": "無所属",
+            "percentage": 4.2,
+            "votes": 8316,
+            "status": "lost"
+          }
+        ],
+        "turnout": 54,
+        "margin": 23672,
+        "marginPt": 12
+      },
+      "candidates2026": [
+        {
+          "name": "阿久津幸彦",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 69,
+          "title": "元首相補佐官",
+          "wins": 5
+        },
+        {
+          "name": "下村博文",
+          "party": "自民",
+          "status": "前職",
+          "age": 71,
+          "title": "元文部科学大臣",
+          "wins": 9
+        },
+        {
+          "name": "大豆生田実",
+          "party": "維新",
+          "status": "新人",
+          "age": 60,
+          "title": "元足利市長"
+        },
+        {
+          "name": "高沢一基",
+          "party": "国民",
+          "status": "新人",
+          "age": 51,
+          "title": "元板橋区議"
+        },
+        {
+          "name": "松方恵美",
+          "party": "参政",
+          "status": "新人",
+          "age": 52,
+          "title": "自営業"
+        },
+        {
+          "name": "横手海人",
+          "party": "共産",
+          "status": "新人",
+          "age": 29,
+          "title": "党職員"
+        },
+        {
+          "name": "桑島康文",
+          "party": "世界平和党",
+          "status": "新人",
+          "age": 64,
+          "title": "政治組織代表"
+        }
+      ],
+      "analysis2026": "2024年に裏金問題で無所属出馬し落選した下村博文(元文部科学大臣)が自民公認で復帰を目指す。2024年に勝利した阿久津幸彦(中道改革連合)との対決が軸。維新の大豆生田実(元足利市長)、国民の高沢一基、共産の横手海人など7人の乱戦。"
+    },
+    {
+      "number": 12,
+      "regionDescription": "東京12区は北区、足立区の一部で構成される。下町。\n\n- **北区**: 飛鳥山公園は桜の名所で、渋沢栄一ゆかりの地。王子駅周辺が中心。",
+      "characteristics": "北区と足立区の一部を含む下町。渋沢栄一ゆかりの飛鳥山公園があり、新紙幣発行で注目。2024年は自民が勝利したが、接戦区として注目される。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "高木啓",
+            "party": "自民",
+            "percentage": 33.2,
+            "votes": 68878,
+            "status": "elected"
+          },
+          {
+            "name": "阿部司",
+            "party": "維新",
+            "percentage": 25.2,
+            "votes": 52233,
+            "status": "proportional"
+          },
+          {
+            "name": "大熊利昭",
+            "party": "国民",
+            "percentage": 21.5,
+            "votes": 44524,
+            "status": "lost"
+          },
+          {
+            "name": "田原聖子",
+            "party": "共産",
+            "percentage": 20,
+            "votes": 41504,
+            "status": "lost"
+          }
+        ],
+        "turnout": 57.1,
+        "margin": 16645,
+        "marginPt": 8
+      },
+      "candidates2026": [
+        {
+          "name": "高木啓",
+          "party": "自民",
+          "status": "現職",
+          "age": 60,
+          "title": "元都議",
+          "wins": 3
+        },
+        {
+          "name": "阿部司",
+          "party": "維新",
+          "status": "現職",
+          "age": 43,
+          "title": "元党総務委員長",
+          "wins": 2
+        },
+        {
+          "name": "中原翔太",
+          "party": "中道改革連合",
+          "status": "新人",
+          "age": 33,
+          "title": "元議員秘書"
+        },
+        {
+          "name": "久住勇樹",
+          "party": "国民",
+          "status": "新人",
+          "age": 42,
+          "title": "会社役員"
+        },
+        {
+          "name": "田原聖子",
+          "party": "共産",
+          "status": "新人",
+          "age": 56,
+          "title": "介護職員"
+        },
+        {
+          "name": "黒石裕子",
+          "party": "参政",
+          "status": "新人",
+          "age": 34,
+          "title": "会社員"
+        }
+      ],
+      "analysis2026": "自民の高木啓(現職)と維新の阿部司(現職・比例復活)の与党系2人が競合する注目区。中道改革連合は新人の中原翔太を擁立。国民の久住勇樹、共産の田原聖子、参政の黒石裕子を含む6人の乱戦。"
+    },
+    {
+      "number": 13,
+      "regionDescription": "東京13区は足立区の大部分で構成される。下町。\n\n- **足立区**: 北千住が「穴場な街」として人気上昇中。西新井大師は厄除けで有名。",
+      "characteristics": "足立区が中心の下町。北千住が「穴場な街」として人気上昇中。2024年は自民が勝利。西新井大師など下町情緒が残る庶民的な選挙区。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "土田慎",
+            "party": "自民",
+            "percentage": 39.6,
+            "votes": 75050,
+            "status": "elected"
+          },
+          {
+            "name": "森洋介",
+            "party": "国民",
+            "percentage": 30.8,
+            "votes": 58385,
+            "status": "proportional"
+          },
+          {
+            "name": "沢田真吾",
+            "party": "共産",
+            "percentage": 15.3,
+            "votes": 29004,
+            "status": "lost"
+          },
+          {
+            "name": "重田惇平",
+            "party": "維新",
+            "percentage": 14.2,
+            "votes": 26989,
+            "status": "lost"
+          }
+        ],
+        "turnout": 50.7,
+        "margin": 16665,
+        "marginPt": 8.8
+      },
+      "candidates2026": [
+        {
+          "name": "森洋介",
+          "party": "国民",
+          "status": "現職",
+          "age": 31,
+          "title": "元環境省職員",
+          "wins": 1
+        },
+        {
+          "name": "沢田真吾",
+          "party": "共産",
+          "status": "新人",
+          "age": 40,
+          "title": "党都委員会職員"
+        },
+        {
+          "name": "加地敏子",
+          "party": "参政",
+          "status": "新人",
+          "age": 50,
+          "title": "パート従業員"
+        }
+      ],
+      "analysis2026": "土田慎(自民・維新推薦)と比例復活の森洋介(国民)の再戦。共産の沢田真吾、参政の加地敏子の4人の争い。"
+    },
+    {
+      "number": 14,
+      "regionDescription": "東京14区は墨田区、荒川区で構成される。下町情緒が残る地域。\n\n- **墨田区**: 東京スカイツリー、両国国技館がある。すみだ水族館、江戸東京博物館も人気。\n\n- **荒川区**: 都電荒川線（東京さくらトラム）が走る。",
+      "characteristics": "東京スカイツリー、両国国技館を含む下町情緒あふれる選挙区。松島みどりが8期連続当選と自民が安定。観光地としての発展と下町の伝統が共存する地域。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "松島みどり",
+            "party": "自民",
+            "percentage": 36.4,
+            "votes": 75862,
+            "status": "elected"
+          },
+          {
+            "name": "伊藤菜々",
+            "party": "国民",
+            "percentage": 25.5,
+            "votes": 53211,
+            "status": "lost"
+          },
+          {
+            "name": "櫛渕万里",
+            "party": "れいわ",
+            "percentage": 12.1,
+            "votes": 25328,
+            "status": "proportional"
+          },
+          {
+            "name": "斉藤佳代",
+            "party": "維新",
+            "percentage": 10.4,
+            "votes": 21628,
+            "status": "lost"
+          },
+          {
+            "name": "原努",
+            "party": "共産",
+            "percentage": 10.1,
+            "votes": 20987,
+            "status": "lost"
+          },
+          {
+            "name": "大賀靖郎",
+            "party": "参政",
+            "percentage": 4.9,
+            "votes": 10210,
+            "status": "lost"
+          },
+          {
+            "name": "大塚紀久雄",
+            "party": "無所属",
+            "percentage": 0.7,
+            "votes": 1481,
+            "status": "lost"
+          }
+        ],
+        "turnout": 53.6,
+        "margin": 22651,
+        "marginPt": 10.9
+      },
+      "candidates2026": [
+        {
+          "name": "松島みどり",
+          "party": "自民",
+          "status": "現職",
+          "age": 69,
+          "title": "元法務大臣",
+          "wins": 8
+        },
+        {
+          "name": "櫛渕万里",
+          "party": "れいわ新選組",
+          "status": "現職",
+          "age": 58,
+          "title": "党共同代表",
+          "wins": 3
+        },
+        {
+          "name": "長南貴則",
+          "party": "国民",
+          "status": "新人",
+          "age": 40,
+          "title": "元墨田区議"
+        },
+        {
+          "name": "丹悠",
+          "party": "参政",
+          "status": "新人",
+          "age": 45,
+          "title": "自営業"
+        },
+        {
+          "name": "原努",
+          "party": "共産",
+          "status": "新人",
+          "age": 44,
+          "title": "元墨田区議"
+        }
+      ],
+      "analysis2026": "元法務大臣の松島みどり(自民)が9期目を目指す。れいわ共同代表の櫛渕万里(比例復活)、国民の長南貴則、参政の丹悠、共産の原努の5人の争い。"
+    },
+    {
+      "number": 15,
+      "regionDescription": "東京15区は江東区で構成される。臨海副都心を含む。\n\n- **江東区**: お台場、豊洲市場、有明アリーナなど臨海部の施設が集積。門前仲町、亀戸は下町情緒。",
+      "characteristics": "お台場、豊洲市場を含む臨海副都心。2024年は補欠選挙で当選した酒井菜摘がそのまま本選でも勝利。タワーマンションが林立し、若いファミリー層が増加中。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "酒井菜摘",
+            "party": "立憲",
+            "percentage": 27.5,
+            "votes": 66791,
+            "status": "elected"
+          },
+          {
+            "name": "須藤元気",
+            "party": "無所属",
+            "percentage": 27.1,
+            "votes": 65666,
+            "status": "lost"
+          },
+          {
+            "name": "大空幸星",
+            "party": "自民",
+            "percentage": 25.9,
+            "votes": 62771,
+            "status": "proportional"
+          },
+          {
+            "name": "金澤結衣",
+            "party": "無所属",
+            "percentage": 13.4,
+            "votes": 32442,
+            "status": "lost"
+          },
+          {
+            "name": "須藤元気",
+            "party": "無所属",
+            "percentage": 17.4,
+            "votes": 29669,
+            "status": "lost"
+          },
+          {
+            "name": "金澤結衣",
+            "party": "維新",
+            "percentage": 16.7,
+            "votes": 28461,
+            "status": "lost"
+          },
+          {
+            "name": "飯山陽",
+            "party": "保守党",
+            "percentage": 14.2,
+            "votes": 24264,
+            "status": "lost"
+          },
+          {
+            "name": "乙武洋匡",
+            "party": "無所属",
+            "percentage": 11.5,
+            "votes": 19655,
+            "status": "lost"
+          },
+          {
+            "name": "小堤東",
+            "party": "共産",
+            "percentage": 6.2,
+            "votes": 15049,
+            "status": "lost"
+          },
+          {
+            "name": "吉川里奈",
+            "party": "参政",
+            "percentage": 5.1,
+            "votes": 8639,
+            "status": "lost"
+          },
+          {
+            "name": "秋元司",
+            "party": "無所属",
+            "percentage": 4.7,
+            "votes": 8061,
+            "status": "lost"
+          },
+          {
+            "name": "福永活也",
+            "party": "NHKから国民を守る党",
+            "percentage": 0.8,
+            "votes": 1410,
+            "status": "lost"
+          },
+          {
+            "name": "根本良輔",
+            "party": "つばさの党",
+            "percentage": 0.7,
+            "votes": 1110,
+            "status": "lost"
+          }
+        ],
+        "turnout": 57.6,
+        "margin": 1125,
+        "marginPt": 0.5
+      },
+      "candidates2026": [
+        {
+          "name": "酒井なつみ",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 39,
+          "title": "元江東区議",
+          "wins": 2
+        },
+        {
+          "name": "大空幸星",
+          "party": "自民",
+          "status": "現職",
+          "age": 27,
+          "title": "NPO代表",
+          "wins": 1
+        },
+        {
+          "name": "三次由梨香",
+          "party": "維新",
+          "status": "新人",
+          "age": 40,
+          "title": "元江東区議"
+        },
+        {
+          "name": "深見紗采",
+          "party": "国民",
+          "status": "新人",
+          "age": 32,
+          "title": "会社役員"
+        },
+        {
+          "name": "鈴木佳奈",
+          "party": "参政",
+          "status": "新人",
+          "age": 46,
+          "title": "美容外科勤務"
+        },
+        {
+          "name": "吉野敏明",
+          "party": "減税日本",
+          "status": "ゆうこく連合・新人",
+          "age": 58,
+          "title": "歯科医師"
+        }
+      ],
+      "analysis2026": "2024年補選・本選と連勝の酒井なつみ(中道改革連合)と、比例復活の大空幸星(自民)の再戦。維新の三次由梨香、国民の深見紗采、参政の鈴木佳奈、減税日本の吉野敏明の6人の争い。"
+    },
+    {
+      "number": 16,
+      "regionDescription": "東京16区は江戸川区で構成される。都内最東端の区。\n\n- **江戸川区**: 葛西臨海公園、葛西臨海水族園がある。インド人コミュニティが形成され「リトル・インディア」と呼ばれる地域も。",
+      "characteristics": "都内最東端の江戸川区。インド人コミュニティ「リトル・インディア」があり、多文化共生が進む地域。2024年は自民が勝利。葛西臨海公園など家族向けスポットが多い。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "大西洋平",
+            "party": "自民",
+            "percentage": 37.3,
+            "votes": 71728,
+            "status": "elected"
+          },
+          {
+            "name": "柴田勝之",
+            "party": "立憲",
+            "percentage": 31.6,
+            "votes": 60714,
+            "status": "proportional"
+          },
+          {
+            "name": "中津川博郷",
+            "party": "維新",
+            "percentage": 14.9,
+            "votes": 28538,
+            "status": "lost"
+          },
+          {
+            "name": "有田正寿",
+            "party": "参政",
+            "percentage": 8.7,
+            "votes": 16636,
+            "status": "lost"
+          },
+          {
+            "name": "宮本栄",
+            "party": "共産",
+            "percentage": 7.5,
+            "votes": 14464,
+            "status": "lost"
+          }
+        ],
+        "turnout": 51.4,
+        "margin": 11014,
+        "marginPt": 5.7
+      },
+      "candidates2026": [
+        {
+          "name": "柴田勝之",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 57,
+          "title": "弁護士",
+          "wins": 1
+        },
+        {
+          "name": "竹内知子",
+          "party": "国民",
+          "status": "新人",
+          "age": 45,
+          "title": "会社員"
+        },
+        {
+          "name": "村上剛",
+          "party": "参政",
+          "status": "新人",
+          "age": 44,
+          "title": "教師"
+        }
+      ],
+      "analysis2026": "大西洋平(自民・維新推薦)と比例復活の柴田勝之(中道改革連合)の再戦。国民の竹内知子、参政の村上剛の4人の争い。"
+    },
+    {
+      "number": 17,
+      "regionDescription": "東京17区は葛飾区で構成される。下町。\n\n- **葛飾区**: 「男はつらいよ」の柴又帝釈天、「こちら葛飾区亀有公園前派出所」の舞台として有名。",
+      "characteristics": "「男はつらいよ」「こち亀」の舞台として全国的に知られる葛飾区。平沢勝栄が10期連続当選だが、裏金問題で自民非公認に。79歳と高齢であり、今後の動向に注目。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "円より子",
+            "party": "国民",
+            "percentage": 28,
+            "votes": 51975,
+            "status": "proportional"
+          },
+          {
+            "name": "猪口幸子",
+            "party": "維新",
+            "percentage": 22.9,
+            "votes": 42420,
+            "status": "proportional"
+          },
+          {
+            "name": "新井杉生",
+            "party": "共産",
+            "percentage": 14.3,
+            "votes": 26564,
+            "status": "lost"
+          }
+        ],
+        "turnout": 52.2,
+        "margin": 9555,
+        "marginPt": 5.2
+      },
+      "candidates2026": [
+        {
+          "name": "平沢勝栄",
+          "party": "自民",
+          "status": "現職",
+          "age": 80,
+          "title": "元復興大臣",
+          "wins": 10
+        },
+        {
+          "name": "猪口幸子",
+          "party": "維新",
+          "status": "現職",
+          "age": 69,
+          "title": "医師",
+          "wins": 1
+        },
+        {
+          "name": "反田麻理",
+          "party": "中道改革連合",
+          "status": "新人",
+          "age": 45,
+          "title": "元議員秘書"
+        },
+        {
+          "name": "長谷川貴子",
+          "party": "国民",
+          "status": "新人",
+          "age": 52,
+          "title": "元足立区議"
+        },
+        {
+          "name": "円より子",
+          "party": "無所属",
+          "status": "元職",
+          "age": 78,
+          "title": "元参議院議員",
+          "wins": 1
+        },
+        {
+          "name": "杉浦慎一郎",
+          "party": "参政",
+          "status": "新人",
+          "age": 29,
+          "title": "会社員"
+        },
+        {
+          "name": "鈴木真志",
+          "party": "世界平和党",
+          "status": "新人",
+          "age": 54,
+          "title": "政治組織代表"
+        }
+      ],
+      "analysis2026": "2024年に裏金問題で自民非公認だった平沢勝栄が自民公認を回復し10期目を目指す。2024年に比例復活の円より子(無所属)、維新の猪口幸子(比例復活)、中道改革連合の反田麻理(新人)、国民の長谷川貴子、参政の杉浦慎一郎など7人の大乱戦。"
+    },
+    {
+      "number": 18,
+      "regionDescription": "東京18区は武蔵野市、府中市、小金井市で構成される。住みたい街上位の地域。\n\n- **武蔵野市**: 吉祥寺が「住みたい街ランキング」で常に上位。井の頭公園は桜の名所。\n\n- **府中市**: 大國魂神社、東京競馬場がある。",
+      "characteristics": "「住みたい街ランキング」常連の吉祥寺を含む人気エリア。2024年は福田かおるが菅直人元首相を破り自民が奪取。菅直人落選は全国的なニュースとなった象徴的な選挙区。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "福田かおる",
+            "party": "自民",
+            "percentage": 42.3,
+            "votes": 99002,
+            "status": "elected"
+          },
+          {
+            "name": "松下玲子",
+            "party": "立憲",
+            "percentage": 41.4,
+            "votes": 96820,
+            "status": "proportional"
+          },
+          {
+            "name": "徳永由紀子",
+            "party": "参政",
+            "percentage": 8.3,
+            "votes": 19496,
+            "status": "lost"
+          },
+          {
+            "name": "樋口亮",
+            "party": "共産",
+            "percentage": 7.9,
+            "votes": 18512,
+            "status": "lost"
+          }
+        ],
+        "turnout": 60.1,
+        "margin": 2182,
+        "marginPt": 0.9
+      },
+      "candidates2026": [
+        {
+          "name": "松下玲子",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 55,
+          "title": "元武蔵野市長、元都議会議員、政党役員",
+          "wins": 1
+        },
+        {
+          "name": "鈴木ゆうま",
+          "party": "国民",
+          "status": "新人",
+          "age": 39,
+          "title": "政党役員"
+        },
+        {
+          "name": "徳永ゆきこ",
+          "party": "参政",
+          "status": "新人",
+          "age": 48,
+          "title": "訪問看護師"
+        },
+        {
+          "name": "吉田綾",
+          "party": "再生の道",
+          "status": "新人",
+          "age": 40,
+          "title": "無職"
+        }
+      ],
+      "analysis2026": "2024年に菅直人元首相を破り初当選した福田かおる(自民・文部科学副大臣)と、比例復活した松下玲子(中道改革連合・元武蔵野市長)の再戦。国民の鈴木ゆうま、参政党の徳永ゆきこ、再生の道の吉田綾の5人の争い。"
+    },
+    {
+      "number": 19,
+      "regionDescription": "東京19区は小平市、国分寺市、国立市、西東京市で構成される。文教都市。\n\n- **国分寺市・国立市**: 一橋大学など文教施設が集積。国立駅前の大学通りは桜並木が美しい。",
+      "characteristics": "一橋大学など文教施設が集積する多摩東部の文教都市。2024年は立憲が勝利。国立駅前の桜並木で知られる落ち着いた住宅地で、教育熱心な有権者が多い。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "末松義規",
+            "party": "立憲",
+            "percentage": 39.4,
+            "votes": 76899,
+            "status": "elected"
+          },
+          {
+            "name": "松本洋平",
+            "party": "自民",
+            "percentage": 38.2,
+            "votes": 74435,
+            "status": "proportional"
+          },
+          {
+            "name": "吉田圭一郎",
+            "party": "維新",
+            "percentage": 11.9,
+            "votes": 23289,
+            "status": "lost"
+          },
+          {
+            "name": "井手重美津子",
+            "party": "共産",
+            "percentage": 10.5,
+            "votes": 20417,
+            "status": "lost"
+          }
+        ],
+        "turnout": 60.2,
+        "margin": 2464,
+        "marginPt": 1.3
+      },
+      "candidates2026": [
+        {
+          "name": "末松義規",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 69,
+          "title": "元復興副大臣",
+          "wins": 8
+        },
+        {
+          "name": "松本洋平",
+          "party": "自民",
+          "status": "現職",
+          "age": 52,
+          "title": "文部科学大臣",
+          "wins": 6
+        },
+        {
+          "name": "諏訪玲子",
+          "party": "国民",
+          "status": "新人",
+          "age": 42,
+          "title": "社会教育主事"
+        },
+        {
+          "name": "一ノ瀬陽子",
+          "party": "参政",
+          "status": "新人",
+          "age": 46,
+          "title": "会社経営者"
+        },
+        {
+          "name": "井手重美津子",
+          "party": "共産",
+          "status": "新人",
+          "age": 62,
+          "title": "党都委員会職員"
+        }
+      ],
+      "analysis2026": "2024年にわずか2,464票差で勝利した末松義規(中道改革連合)と、比例復活の松本洋平(自民・文部科学大臣)の再戦。僅差の激戦区で今回も大接戦が予想される。国民の諏訪玲子、参政の一ノ瀬陽子、共産の井手重美津子の5人の争い。"
+    },
+    {
+      "number": 20,
+      "regionDescription": "東京20区は東村山市、東大和市、清瀬市、東久留米市、武蔵村山市で構成される。多摩北部。\n\n- **東村山市**: 志村けんの出身地として「志村けんの木」がある。",
+      "characteristics": "志村けん出身地の東村山市を含む多摩北部。元官房副長官の木原誠二が6期連続当選と自民が安定。郊外型住宅地で、子育て世代と高齢者が混在。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "木原誠二",
+            "party": "自民",
+            "percentage": 43,
+            "votes": 93390,
+            "status": "elected"
+          },
+          {
+            "name": "大西健太郎",
+            "party": "国民",
+            "percentage": 30.1,
+            "votes": 65435,
+            "status": "lost"
+          },
+          {
+            "name": "宮本徹",
+            "party": "共産",
+            "percentage": 26.8,
+            "votes": 58215,
+            "status": "lost"
+          }
+        ],
+        "turnout": 54.6,
+        "margin": 27955,
+        "marginPt": 12.9
+      },
+      "candidates2026": [
+        {
+          "name": "宮本徹",
+          "party": "共産",
+          "status": "元職",
+          "age": 54,
+          "title": "党中央委員",
+          "wins": 3
+        },
+        {
+          "name": "大西健太郎",
+          "party": "国民",
+          "status": "新人",
+          "age": 47,
+          "title": "元教師"
+        },
+        {
+          "name": "掛山茂希",
+          "party": "参政",
+          "status": "新人",
+          "age": 38,
+          "title": "個人投資家"
+        }
+      ],
+      "analysis2026": "元党選対委員長の木原誠二(自民・維新推薦)が7期目を目指す。共産党の宮本徹(元職・比例東京ブロック単独から小選挙区に転出)、国民の大西健太郎、参政の掛山茂希の4人の争い。中道改革連合は候補を擁立せず。"
+    },
+    {
+      "number": 21,
+      "regionDescription": "東京21区は立川市、昭島市、日野市で構成される。多摩中部。\n\n- **立川市**: 多摩地域の中心都市。国営昭和記念公園は広大な公園。\n\n- **日野市**: 新選組のふるさと。土方歳三の生誕地。",
+      "characteristics": "多摩地域の中心都市・立川を含む選挙区。昭和記念公園や新選組ゆかりの日野市など歴史と自然が豊か。2024年は立憲が勝利し、多摩地域での野党の強さを示した。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "大河原雅子",
+            "party": "立憲",
+            "percentage": 42.1,
+            "votes": 90724,
+            "status": "elected"
+          },
+          {
+            "name": "小田原潔",
+            "party": "無所属",
+            "percentage": 32.2,
+            "votes": 69421,
+            "status": "lost"
+          },
+          {
+            "name": "山下容子",
+            "party": "維新",
+            "percentage": 17,
+            "votes": 36642,
+            "status": "lost"
+          },
+          {
+            "name": "森裕一",
+            "party": "参政",
+            "percentage": 8.6,
+            "votes": 18511,
+            "status": "lost"
+          }
+        ],
+        "turnout": 55.9,
+        "margin": 21303,
+        "marginPt": 9.9
+      },
+      "candidates2026": [
+        {
+          "name": "鈴木烈",
+          "party": "中道改革連合",
+          "status": "新人",
+          "age": 52,
+          "title": "元都議"
+        },
+        {
+          "name": "黒田太郎",
+          "party": "国民",
+          "status": "新人",
+          "age": 59,
+          "title": "元愛知県議"
+        },
+        {
+          "name": "星野奈美",
+          "party": "参政",
+          "status": "新人",
+          "age": 51,
+          "title": "広告ライター"
+        },
+        {
+          "name": "矢田一久",
+          "party": "減税日本",
+          "status": "ゆうこく連合・新人",
+          "age": 35,
+          "title": "会社経営者"
+        }
+      ],
+      "analysis2026": "2024年に無所属(裏金非公認)で出馬し落選した小田原潔(自民・元職・維新推薦)と、中道改革連合の鈴木烈(新人・元都議)の対決。大河原雅子は引退し後継に鈴木を指名。国民の黒田太郎、参政の星野奈美、減税日本の矢田一久の5人の争い。"
+    },
+    {
+      "number": 22,
+      "regionDescription": "東京22区は三鷹市、調布市、狛江市で構成される。多摩東部。\n\n- **調布市**: 深大寺、神代植物公園がある。味の素スタジアムはFC東京、東京ヴェルディの本拠地。\n\n- **三鷹市**: ジブリ美術館がある。太宰治ゆかりの地。",
+      "characteristics": "ジブリ美術館のある三鷹市と深大寺のある調布市を含む。太宰治ゆかりの地で文化的な雰囲気がある。2024年は立憲が勝利。FC東京の本拠地・味の素スタジアムもある。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "山花郁夫",
+            "party": "立憲",
+            "percentage": 40.2,
+            "votes": 99790,
+            "status": "elected"
+          },
+          {
+            "name": "伊藤達也",
+            "party": "自民",
+            "percentage": 39,
+            "votes": 96748,
+            "status": "proportional"
+          },
+          {
+            "name": "鈴木美香",
+            "party": "参政",
+            "percentage": 10.5,
+            "votes": 26005,
+            "status": "lost"
+          },
+          {
+            "name": "平野義尚",
+            "party": "共産",
+            "percentage": 10.3,
+            "votes": 25453,
+            "status": "lost"
+          }
+        ],
+        "turnout": 59.6,
+        "margin": 3042,
+        "marginPt": 1.2
+      },
+      "candidates2026": [
+        {
+          "name": "山花郁夫",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 59,
+          "title": "元法務副大臣",
+          "wins": 5
+        },
+        {
+          "name": "鈴木美香",
+          "party": "参政",
+          "status": "新人",
+          "age": 61,
+          "title": "会社員"
+        }
+      ],
+      "analysis2026": "2024年にわずか3,042票差で勝利した山花郁夫(中道改革連合)と、比例復活の伊藤達也(自民・維新推薦・元金融担当大臣)の再戦。参政の鈴木美香を含む3人の争い。僅差の激戦区で維新推薦が勝敗を左右する可能性。"
+    },
+    {
+      "number": 23,
+      "regionDescription": "東京23区は町田市で構成される。神奈川県に囲まれた地域。\n\n- **町田市**: 小田急線・JR横浜線が交差するターミナル。町田リス園、薬師池公園がある。",
+      "characteristics": "神奈川県に囲まれた町田市が中心。小田急線とJR横浜線が交差するターミナル都市。2024年は立憲が勝利。東京都でありながら神奈川県との結びつきが強い独特の地域。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "伊藤俊輔",
+            "party": "立憲",
+            "percentage": 59,
+            "votes": 111851,
+            "status": "elected"
+          },
+          {
+            "name": "吉原修",
+            "party": "自民",
+            "percentage": 37.5,
+            "votes": 71154,
+            "status": "lost"
+          },
+          {
+            "name": "AIメイヤー",
+            "party": "みんなでつくる党",
+            "percentage": 3.4,
+            "votes": 6475,
+            "status": "lost"
+          }
+        ],
+        "turnout": 55.7,
+        "margin": 40697,
+        "marginPt": 21.5
+      },
+      "candidates2026": [
+        {
+          "name": "伊藤俊輔",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 46,
+          "title": "元経営管理委員",
+          "wins": 3
+        },
+        {
+          "name": "川松真一朗",
+          "party": "自民",
+          "status": "新人",
+          "age": 45,
+          "title": "元都議"
+        },
+        {
+          "name": "池川友一",
+          "party": "共産",
+          "status": "新人",
+          "age": 40,
+          "title": "元都議"
+        },
+        {
+          "name": "舟見裕貴",
+          "party": "参政",
+          "status": "新人",
+          "age": 40,
+          "title": "会社員"
+        }
+      ],
+      "analysis2026": "2024年に大差で勝利した伊藤俊輔(中道改革連合)が再選を目指す。自民は新人の川松真一朗(元都議)を擁立。共産の池川友一(元都議)、参政の舟見裕貴の4人の争い。"
+    },
+    {
+      "number": 24,
+      "regionDescription": "東京24区は八王子市の大部分で構成される。多摩最大の都市。\n\n- **八王子市**: 人口約58万人で多摩地域最大。高尾山は年間登山者数世界一のミシュラン三ツ星の山。",
+      "characteristics": "多摩最大の都市・八王子市と世界一の登山者数を誇る高尾山を含む。萩生田光一が7期連続当選だが、裏金問題で自民非公認に。元政調会長の動向と自民復党問題が全国的に注目される。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "萩生田光一",
+            "party": "無所属",
+            "percentage": 38.6,
+            "votes": 79216,
+            "status": "elected"
+          },
+          {
+            "name": "有田芳生",
+            "party": "立憲",
+            "percentage": 35,
+            "votes": 71683,
+            "status": "proportional"
+          },
+          {
+            "name": "浦川祐輔",
+            "party": "国民",
+            "percentage": 12,
+            "votes": 24653,
+            "status": "lost"
+          },
+          {
+            "name": "佐藤由美",
+            "party": "維新",
+            "percentage": 9,
+            "votes": 18501,
+            "status": "lost"
+          },
+          {
+            "name": "與倉さゆり",
+            "party": "参政",
+            "percentage": 4.2,
+            "votes": 8678,
+            "status": "lost"
+          },
+          {
+            "name": "畑尻文夫",
+            "party": "無所属",
+            "percentage": 1.1,
+            "votes": 2251,
+            "status": "lost"
+          }
+        ],
+        "turnout": 56.5,
+        "margin": 7533,
+        "marginPt": 3.7
+      },
+      "candidates2026": [
+        {
+          "name": "細貝悠",
+          "party": "中道改革連合",
+          "status": "新人",
+          "age": 32,
+          "title": "政党支部役員"
+        },
+        {
+          "name": "ほそやりょう",
+          "party": "国民",
+          "status": "新人",
+          "age": 30,
+          "title": "会社員"
+        },
+        {
+          "name": "よくらさゆり",
+          "party": "参政",
+          "status": "新人",
+          "age": 41,
+          "title": "無職"
+        },
+        {
+          "name": "深田もえ",
+          "party": "無所属",
+          "status": "新人",
+          "age": 47,
+          "title": "会社経営者、会社役員"
+        }
+      ],
+      "analysis2026": "2024年に裏金問題で自民非公認ながら無所属で当選した萩生田光一が、今回は自民公認で前職として出馬。元政調会長の復権を目指す。中道改革連合の細貝悠(32歳)、国民のほそやりょう(30歳)、参政党のよくらさゆり、無所属の深田もえの5人の争い。"
+    },
+    {
+      "number": 25,
+      "regionDescription": "東京25区は青梅市、福生市、羽村市、あきる野市、瑞穂町、日の出町、檜原村、奥多摩町で構成される。多摩西部の山間部。\n\n- **青梅市**: 青梅マラソン、梅の名所として知られる。御岳山は古くからの山岳信仰の地。\n\n- **奥多摩町**: 奥多摩湖、日原鍾乳洞など自然豊かな地域。",
+      "characteristics": "青梅マラソンの青梅市と奥多摩の山間部を含む多摩西部。元万博担当大臣の井上信治が8期連続当選と自民が安定。自然豊かな地域で、過疎化対策も争点に。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "井上信治",
+            "party": "自民",
+            "percentage": 53.1,
+            "votes": 110488,
+            "status": "elected"
+          },
+          {
+            "name": "宮崎太朗",
+            "party": "維新",
+            "percentage": 19.7,
+            "votes": 41080,
+            "status": "lost"
+          },
+          {
+            "name": "依田花蓮",
+            "party": "れいわ",
+            "percentage": 14,
+            "votes": 29179,
+            "status": "lost"
+          },
+          {
+            "name": "池田公三",
+            "party": "共産",
+            "percentage": 13.1,
+            "votes": 27323,
+            "status": "lost"
+          }
+        ],
+        "turnout": 52.9,
+        "margin": 69408,
+        "marginPt": 33.4
+      },
+      "candidates2026": [
+        {
+          "name": "井上信治",
+          "party": "自民",
+          "status": "現職",
+          "age": 56,
+          "title": "元万博担当大臣",
+          "wins": 8
+        },
+        {
+          "name": "依田花蓮",
+          "party": "中道改革連合",
+          "status": "新人",
+          "age": 54,
+          "title": "元新宿区議"
+        },
+        {
+          "name": "宮崎太朗",
+          "party": "維新",
+          "status": "新人",
+          "age": 45,
+          "title": "元議員秘書"
+        },
+        {
+          "name": "宗像久敬",
+          "party": "国民",
+          "status": "新人",
+          "age": 47,
+          "title": "会社役員"
+        },
+        {
+          "name": "木村奈美",
+          "party": "参政",
+          "status": "新人",
+          "age": 51,
+          "title": "看護師"
+        }
+      ],
+      "analysis2026": "元万博担当大臣の井上信治(自民)が9期目を目指す。2024年も過半数に迫る得票で大勝した自民党の牙城。中道改革連合は新人の依田花蓮を擁立、維新の宮崎太朗、国民の宗像久敬、参政の木村奈美の5人の争い。"
+    },
+    {
+      "number": 26,
+      "regionDescription": "東京26区は新宿区の大部分、中野区の大部分で構成される。繁華街と住宅地。\n\n- **新宿区**: 新宿駅は世界一の乗降客数を誇るターミナル。歌舞伎町は日本最大の歓楽街。新宿御苑は都心のオアシス。",
+      "characteristics": "世界一の乗降客数を誇る新宿駅と日本最大の歓楽街・歌舞伎町を含む。2024年は立憲を離党した松原仁が無所属で当選。政党への復帰動向が注目される激戦区。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "松原仁",
+            "party": "無所属",
+            "percentage": 45.6,
+            "votes": 108174,
+            "status": "elected"
+          },
+          {
+            "name": "今岡植",
+            "party": "自民",
+            "percentage": 28.9,
+            "votes": 68568,
+            "status": "proportional"
+          },
+          {
+            "name": "和田正子",
+            "party": "共産",
+            "percentage": 12.1,
+            "votes": 28819,
+            "status": "lost"
+          },
+          {
+            "name": "藤田久美",
+            "party": "参政",
+            "percentage": 7.3,
+            "votes": 17250,
+            "status": "lost"
+          },
+          {
+            "name": "田淵正文",
+            "party": "無所属",
+            "percentage": 6.2,
+            "votes": 14602,
+            "status": "lost"
+          }
+        ],
+        "turnout": 55.8,
+        "margin": 39606,
+        "marginPt": 16.7
+      },
+      "candidates2026": [
+        {
+          "name": "松原仁",
+          "party": "無所属",
+          "status": "現職",
+          "age": 69,
+          "title": "元拉致問題担当大臣",
+          "wins": 9
+        },
+        {
+          "name": "宇佐美登",
+          "party": "チームみらい",
+          "status": "元職",
+          "age": 58,
+          "title": "元経営コンサルタント",
+          "wins": 2
+        },
+        {
+          "name": "坂元悠紀",
+          "party": "国民",
+          "status": "新人",
+          "age": 45,
+          "title": "元目黒区議"
+        },
+        {
+          "name": "松井佳苗子",
+          "party": "共産",
+          "status": "新人",
+          "age": 47,
+          "title": "党女性部員"
+        },
+        {
+          "name": "菅沼桂子",
+          "party": "参政",
+          "status": "新人",
+          "age": 53,
+          "title": "元大学講師"
+        }
+      ],
+      "analysis2026": "立憲離党後も無所属で当選を重ねる松原仁が中道改革連合にも合流せず独自出馬。自民は新人の今岡植(維新推薦)を擁立。チームみらいの宇佐美登(元職)、国民の坂元悠紀、共産の松井佳苗子、参政の菅沼桂子の6人の争い。"
+    },
+    {
+      "number": 27,
+      "regionDescription": "東京27区は台東区の大部分、江東区の一部で構成される。下町。\n\n- **台東区**: 上野（上野公園、上野動物園、アメ横）、浅草（浅草寺、雷門）と観光名所が集中。",
+      "characteristics": "上野、浅草という東京を代表する観光地を含む下町。「ミスター年金」長妻昭が9期連続当選と立憲が強固な地盤を持つ。元厚生労働大臣として社会保障政策に強い影響力。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "長妻昭",
+            "party": "立憲",
+            "percentage": 54.6,
+            "votes": 112388,
+            "status": "elected"
+          },
+          {
+            "name": "黒崎祐一",
+            "party": "自民",
+            "percentage": 29.1,
+            "votes": 59952,
+            "status": "lost"
+          },
+          {
+            "name": "石川芽生子",
+            "party": "参政",
+            "percentage": 11.2,
+            "votes": 22947,
+            "status": "lost"
+          },
+          {
+            "name": "石倉弘次郎",
+            "party": "無所属",
+            "percentage": 5.1,
+            "votes": 10542,
+            "status": "lost"
+          }
+        ],
+        "turnout": 55.6,
+        "margin": 52436,
+        "marginPt": 25.5
+      },
+      "candidates2026": [
+        {
+          "name": "長妻昭",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 65,
+          "title": "元厚生労働大臣",
+          "wins": 9
+        },
+        {
+          "name": "須山卓知",
+          "party": "国民",
+          "status": "新人",
+          "age": 45,
+          "title": "元都議"
+        },
+        {
+          "name": "小笠原愛子",
+          "party": "参政",
+          "status": "新人",
+          "age": 37,
+          "title": "会社経営者"
+        }
+      ],
+      "analysis2026": "「ミスター年金」長妻昭(中道改革連合)が10期目を目指す。2024年に大差で敗れた自民の黒崎祐一(維新推薦)が再挑戦、国民の須山卓知(元都議)、参政の小笠原愛子の4人の争い。長妻は盤石の地盤を持ち優位。"
+    },
+    {
+      "number": 28,
+      "regionDescription": "東京28区は八王子市の一部、多摩市、稲城市で構成される。多摩ニュータウン。\n\n- **多摩市**: 多摩ニュータウンの中心。サンリオピューロランドがある。",
+      "characteristics": "多摩ニュータウンとサンリオピューロランドを含む多摩南部。2024年は立憲が勝利。ニュータウンの高齢化が進む一方、若いファミリー層も流入し、世代間の政策要求が多様。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "高松智之",
+            "party": "立憲",
+            "percentage": 29.1,
+            "votes": 50626,
+            "status": "elected"
+          },
+          {
+            "name": "安藤高夫",
+            "party": "自民",
+            "percentage": 28.9,
+            "votes": 50290,
+            "status": "proportional"
+          },
+          {
+            "name": "奥村祥大",
+            "party": "国民",
+            "percentage": 20.1,
+            "votes": 34930,
+            "status": "lost"
+          },
+          {
+            "name": "高野直美",
+            "party": "共産",
+            "percentage": 8.4,
+            "votes": 14530,
+            "status": "lost"
+          },
+          {
+            "name": "藤川隆史",
+            "party": "維新",
+            "percentage": 7.1,
+            "votes": 12344,
+            "status": "lost"
+          },
+          {
+            "name": "江崎早苗",
+            "party": "参政",
+            "percentage": 6.4,
+            "votes": 11109,
+            "status": "lost"
+          }
+        ],
+        "turnout": 57.2,
+        "margin": 336,
+        "marginPt": 0.2
+      },
+      "candidates2026": [
+        {
+          "name": "高松智之",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 51,
+          "title": "元練馬区議",
+          "wins": 1
+        },
+        {
+          "name": "安藤高夫",
+          "party": "自民",
+          "status": "現職",
+          "age": 66,
+          "title": "元医療法人理事長",
+          "wins": 2
+        },
+        {
+          "name": "橋口奈保",
+          "party": "維新",
+          "status": "新人",
+          "age": 49,
+          "title": "元練馬区議"
+        },
+        {
+          "name": "三沢宏明",
+          "party": "国民",
+          "status": "新人",
+          "age": 38,
+          "title": "元投資会社勤務"
+        },
+        {
+          "name": "村松一希",
+          "party": "参政",
+          "status": "新人",
+          "age": 44,
+          "title": "元都議"
+        },
+        {
+          "name": "高野直美",
+          "party": "共産",
+          "status": "新人",
+          "age": 71,
+          "title": "元教師"
+        }
+      ],
+      "analysis2026": "2024年にわずか336票差で勝利した高松智之(中道改革連合)と、比例復活の安藤高夫(自民)の再戦。東京で最も僅差だった選挙区で今回も大接戦が予想される。維新の橋口奈保、国民の三沢宏明、参政の村松一希、共産の高野直美の6人の乱戦。"
+    },
+    {
+      "number": 29,
+      "regionDescription": "東京29区は荒川区の一部、文京区の一部、品川区の一部、大田区の一部などで構成される。",
+      "characteristics": "区割り変更で複数の区にまたがる特殊な構成。公明党の岡本三成が5期連続当選で、都内唯一の公明党小選挙区議員。中道改革連合結成による公明党との統合の影響が注目される。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "岡本三成",
+            "party": "公明",
+            "percentage": 33.2,
+            "votes": 60100,
+            "status": "elected"
+          },
+          {
+            "name": "木村剛司",
+            "party": "立憲",
+            "percentage": 26.5,
+            "votes": 47996,
+            "status": "lost"
+          },
+          {
+            "name": "樽井良和",
+            "party": "国民",
+            "percentage": 17.3,
+            "votes": 31367,
+            "status": "lost"
+          },
+          {
+            "name": "海老澤由紀",
+            "party": "維新",
+            "percentage": 13.3,
+            "votes": 24107,
+            "status": "lost"
+          },
+          {
+            "name": "鈴木賢一",
+            "party": "共産",
+            "percentage": 9.6,
+            "votes": 17325,
+            "status": "lost"
+          }
+        ],
+        "turnout": 53,
+        "margin": 12104,
+        "marginPt": 6.7
+      },
+      "candidates2026": [
+        {
+          "name": "木村剛司",
+          "party": "中道改革連合",
+          "status": "元職",
+          "age": 54,
+          "title": "元墨田区議",
+          "wins": 1
+        },
+        {
+          "name": "樽井良和",
+          "party": "国民",
+          "status": "元職",
+          "age": 58,
+          "title": "元参議院議員",
+          "wins": 1
+        },
+        {
+          "name": "鈴木賢一",
+          "party": "共産",
+          "status": "新人",
+          "age": 64,
+          "title": "党地区副委員長"
+        },
+        {
+          "name": "堀川哲郎",
+          "party": "参政",
+          "status": "新人",
+          "age": 25,
+          "title": "自営業"
+        },
+        {
+          "name": "小坂英二",
+          "party": "日本保守党",
+          "status": "新人",
+          "age": 53,
+          "title": "元荒川区議"
+        }
+      ],
+      "analysis2026": "元公明の岡本三成は比例東京ブロック上位に転出。中道改革連合は元職の木村剛司を擁立。自民は新人の長沢興祐(維新推薦)を立てる。国民の樽井良和(元参院議員)、共産の鈴木賢一、参政の堀川哲郎、保守党の小坂英二の6人の争い。公明票の行方が焦点。"
+    },
+    {
+      "number": 30,
+      "regionDescription": "東京30区は新宿区の一部、板橋区の一部、杉並区の一部などで構成される。",
+      "characteristics": "2022年の区割り変更で新設された選挙区。複数の区にまたがる構成。2024年は立憲が勝利。新設選挙区のため地盤形成が進行中で、今後の動向が注目される。",
+      "result2024": {
+        "candidates": [
+          {
+            "name": "五十嵐衣里",
+            "party": "立憲",
+            "percentage": 42,
+            "votes": 98146,
+            "status": "elected"
+          },
+          {
+            "name": "長島昭久",
+            "party": "自民",
+            "percentage": 39.3,
+            "votes": 91798,
+            "status": "proportional"
+          },
+          {
+            "name": "早川寛",
+            "party": "共産",
+            "percentage": 8.2,
+            "votes": 19061,
+            "status": "lost"
+          },
+          {
+            "name": "武田祐一郎",
+            "party": "参政",
+            "percentage": 7.3,
+            "votes": 17013,
+            "status": "lost"
+          },
+          {
+            "name": "三井健",
+            "party": "みんなでつくる党",
+            "percentage": 3.3,
+            "votes": 7815,
+            "status": "lost"
+          }
+        ],
+        "turnout": 57.6,
+        "margin": 6348,
+        "marginPt": 2.7
+      },
+      "candidates2026": [
+        {
+          "name": "五十嵐衣里",
+          "party": "中道改革連合",
+          "status": "現職",
+          "age": 42,
+          "title": "元都議",
+          "wins": 1
+        },
+        {
+          "name": "川上竜世",
+          "party": "国民",
+          "status": "新人",
+          "age": 28,
+          "title": "会社役員"
+        },
+        {
+          "name": "寿玲子",
+          "party": "参政",
+          "status": "新人",
+          "age": 42,
+          "title": "イラストレーター"
+        }
+      ],
+      "analysis2026": "2024年に6,348票差で勝利した五十嵐衣里(中道改革連合)と、比例復活の長島昭久(自民・維新推薦・元首相補佐官)の再戦。国民の川上竜世(28歳)、参政の寿玲子の4人の争い。"
+    }
+  ],
+  "mapImage": "013tokyo_22kuwari.png"
+}
